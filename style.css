@@ -1,0 +1,186 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
+
+body 
+{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 400;
+	font-size: 14pt;
+	text-align: justify;
+/*	color: rgb(26,26,26) ;
+	background: rgb(252,252,252) ;*/
+}
+
+a
+{
+	color: black;
+}
+
+.selected
+{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+    border-radius: 0.25em;
+}
+
+.wrapper
+{
+    margin-left: auto;
+    margin-right: auto;
+	padding: 2em;
+	width: 38em;
+}
+
+.navigation
+{
+    margin-left: auto;
+    margin-right: auto;
+	text-align: justify;
+	margin-top: 2em;
+}
+
+.bio
+{}
+
+.bioImage
+{}
+
+.bioDescription
+{
+	text-align: justify;
+}
+
+.textBlock
+{
+	text-align: justify;
+    margin-top: 4em;
+}
+
+.logo
+{
+	text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+	font-size: 1.9em;
+	font-weight: 700;
+	text-align: center;
+}
+
+.logoDot
+{
+	color: rgb(227,82,113) ;
+}
+
+h1
+{
+	font-size: 1.5em;
+	font-weight: 400;
+}
+
+h2
+{
+	font-size: 1.5em;
+	font-weight: 400;
+}
+
+.textHeading
+{
+	font-size: 1.6em;
+	text-align: center;
+	font-weight: 400;
+}
+
+.textDate
+{
+	font-size: 1.0em;
+	text-align: center;
+	font-style: italic;
+}
+
+h1.text
+{
+	margin-top: 1em;
+	text-align: center;
+}
+
+h2.text
+{
+	margin-top: 1em;
+	text-align: center;
+}
+
+img.logo
+{
+    display: block;
+	margin: 0 auto;
+	width: 10em;
+}
+
+img.text
+{
+    display: block;
+	margin: 0 auto;
+	width: 100%;
+}
+
+img.left
+{
+    display: block;
+	margin: 0 auto;
+	min-width: 40%;
+    max-width: 40%;
+}
+
+
+@media screen and (min-width: 1px) and (max-width: 800px) {
+
+	body 
+	{
+		font-size: 12pt;
+		text-align: left;
+	}
+
+	.wrapper
+	{
+    	margin-left: 0em;
+    	margin-right: 0em;
+		padding: 0em;
+		border: 0em;
+		width: 100%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.logo
+	{
+		text-decoration: none;
+ 	   	margin-left: auto;
+    	margin-right: auto;
+		font-size: 1.7em;
+		font-weight: 700;
+		text-align: center;
+	}
+
+	.navigation
+	{
+    	margin-left: auto;
+    	margin-right: auto;
+		text-align: left;
+		margin-top: 2em;
+	}
+	
+	.textBlock
+	{
+		text-align: left;
+	}
+
+	.bioDescription
+	{
+		text-align: left;
+	}
+}
+
+
+@media handheld {
+
+}

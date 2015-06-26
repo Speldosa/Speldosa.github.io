@@ -25,6 +25,7 @@ a
 {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2em;
 	padding: 2em;
 	width: 38em;
 }
@@ -33,7 +34,7 @@ a
 {
     margin-left: auto;
     margin-right: auto;
-	text-align: justify;
+	text-align: center;
 	margin-top: 2em;
 }
 
@@ -135,8 +136,8 @@ img.left
 
 	.wrapper
 	{
-    	margin-left: 0em;
-    	margin-right: 0em;
+    	margin-left: 2em;
+    	margin-right: 2em;
 		padding: 0em;
 		border: 0em;
 		width: 100%;
@@ -158,7 +159,7 @@ img.left
 	{
     	margin-left: auto;
     	margin-right: auto;
-		text-align: left;
+		text-align: center;
 		margin-top: 2em;
 	}
 	

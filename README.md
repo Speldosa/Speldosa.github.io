@@ -5,3 +5,4 @@
 - See if you can find a better font.
 - Tweak the design (for example when it comes to the left and right margins of the text).
 - Maybe I should call "blog" "essays" instead.
+- Use Jekyll to create a header (and possibly a footer).

@@ -1,7 +1,7 @@
 # To do
 
 ## Primary:
-- Use Jekyll to create a header (and possibly a footer).
+- Fix mp3-versions of the arranged songs.
 - Fix CSS for headnings. (Some should be centered, some shouldn't.)
 - Tweak the design (for example when it comes to the left and right margins of the text).
 - Fix the layout and the content of the movie page.

@@ -9,6 +9,7 @@
 - Save down the old blog.
 - Point www.martinlarsson.net to this adress.
 - Fix Google Analytics on the page.
+- Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
 
 
 ## Secondary:

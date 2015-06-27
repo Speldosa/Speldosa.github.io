@@ -18,3 +18,8 @@
 - Create a HTML version of the master thesis. (Make a habit of always making both a PDF and a HTML version of all articles.)
 - Make categories for the different pages just as ia has done for https://ia.net/de/know-how.
 - See if you can find a better font.
+
+# Resources
+
+Github tutorials: https://www.youtube.com/playlist?list=PLWjCJDeWfDdfSZOQYvsy_jJiAvx4uaJLB
+Jekyll tutorials: https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-

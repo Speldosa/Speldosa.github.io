@@ -1,22 +1,20 @@
 # To-do
 
 ## Primary:
-- Find a e-mail icon and put it on the index-page before the email.
 - Tweak the design (for example when it comes to the left and right margins of the text).
 - Make a version for phones and iPads (both portrait and landscape).
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
 	- Footnotes?
 	- Source/references?
-- Point www.martinlarsson.net to this adress. (It's underway.)
 - Fix Google Analytics on the page. (Wait until the DNS have been resolved.)
-- Put in a mail symbol for the mail contact and a bird for the tweet contact.
 - Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
 	- Yellow version.
 	- Teal version.
 	- Blue version.
 	- Green version?
+- Find a e-mail icon and put it on the index-page before the email.
 
 
 ## Secondary:

@@ -7,6 +7,7 @@
 - Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
 - Make the path point correctly on an essay page so that it links correctly to the CSS stylesheet. (This goes for all type of links as soon as you navigate away from html files in the root folder.)
 - Design the look and feel of the essay post page.
+- Put in a mail symbol for the mail contact and a bird for the tweet contact.
 
 
 ## Secondary:
@@ -18,6 +19,9 @@
 - Write small summaries for each article. (Make it so that there is some kind of fold out text.)
 - Write small summaries for each essay. 
 - Do a Swedish version of the site?
+- Make items for "articles", "music", "movie", and "software". Include English and Swedish front matter to make it easier to edit.
+- Remake the logo (put a circle behind it consisting of my profile image?).
+- Create the Billie Jean segment from the Kling Kokos concert.
 
 
 ## Maybe:

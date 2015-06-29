@@ -1,13 +1,14 @@
 # To-do
 
 ## Primary:
+- Find a e-mail icon and put it on the index-page before the email.
+- Design the look and feel of the essay post page.
 - Tweak the design (for example when it comes to the left and right margins of the text).
 - Point www.martinlarsson.net to this adress. (It's underway.)
 - Fix Google Analytics on the page. (Wait until the DNS have been resolved.)
-- Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
-- Make the path point correctly on an essay page so that it links correctly to the CSS stylesheet. (This goes for all type of links as soon as you navigate away from html files in the root folder.)
-- Design the look and feel of the essay post page.
 - Put in a mail symbol for the mail contact and a bird for the tweet contact.
+- Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
+- Make the dot in the logo take on a ranom color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
 
 
 ## Secondary:
@@ -18,9 +19,8 @@
 - Migrate old blog posts that are good to the new site.
 - Write small summaries for each article. (Make it so that there is some kind of fold out text.)
 - Write small summaries for each essay. 
-- Do a Swedish version of the site?
+- Do a Swedish version of the site.
 - Make items for "articles", "music", "movie", and "software". Include English and Swedish front matter to make it easier to edit.
-- Remake the logo (put a circle behind it consisting of my profile image?).
 - Create the Billie Jean segment from the Kling Kokos concert.
 
 

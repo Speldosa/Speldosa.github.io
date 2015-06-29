@@ -1,0 +1,21 @@
+<html>
+
+	<head>
+		<title>Martin Larsson</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="/style.css" type="text/css">
+	</head>
+
+	<body>
+		<div class=wrapper>
+			<div class=logo><a href="/index.html" class=logo>ML<span class="logoDot">.</span></a></div>
+			<div class="textBlock">
+				<h1>{{ page.title }}</h1>
+				<h1>{{ page.date | date: '%B %d, %Y' }}</h1>
+				{{content}}
+			</div>
+			<br>
+			<center>© Martin Larsson, 2015</center>
+		</div>
+	</body>
+</html>

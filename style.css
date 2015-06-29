@@ -229,9 +229,14 @@ img.left
 
 
 @media handheld {
-	.embed-container 
+	.embed-container
 	{ 
 		padding-bottom: 40.00%; 
 		max-width: 95%; 
+	}
+
+	a 
+	{
+		color: blue;
 	}
 }

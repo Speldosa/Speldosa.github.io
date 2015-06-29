@@ -2,12 +2,12 @@
 
 ## Primary:
 - Find a e-mail icon and put it on the index-page before the email.
+- Tweak the design (for example when it comes to the left and right margins of the text).
+- Make a version for phones and iPads (both portrait and landscape).
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
 	- Footnotes?
 	- Source/references?
-- Make a version for phones and iPads (both portrait and landscape).
-- Tweak the design (for example when it comes to the left and right margins of the text).
 - Point www.martinlarsson.net to this adress. (It's underway.)
 - Fix Google Analytics on the page. (Wait until the DNS have been resolved.)
 - Put in a mail symbol for the mail contact and a bird for the tweet contact.
@@ -33,8 +33,9 @@
 
 
 ## Maybe:
-- Create a HTML version of the master thesis. 
+- Create a section called books where I put reference texts that constantly are updated.
 - Make categories for the different pages just as ia has done for https://ia.net/de/know-how. (<- I don't know if this is necessary until I get more content on the site.)
+- Create a HTML version of the master thesis. 
 
 
 # Resources

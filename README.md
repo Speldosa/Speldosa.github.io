@@ -13,6 +13,10 @@
 - Put in a mail symbol for the mail contact and a bird for the tweet contact.
 - Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
+	- Yellow version.
+	- Teal version.
+	- Blue version.
+	- Green version?
 
 
 ## Secondary:

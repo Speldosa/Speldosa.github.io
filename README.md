@@ -17,8 +17,7 @@
 - Migrate old blog posts that are good to the new site.
 - Write small summaries for each article. (Make it so that there is some kind of fold out text.)
 - Write small summaries for each essay. 
-
-
+- Do a Swedish version of the site?
 
 
 ## Maybe:

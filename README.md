@@ -6,6 +6,7 @@
 	- Fix it so that the title get its own font.
 	- Footnotes?
 	- Source/references?
+- Make a version for phones and iPads (both portrait and landscape).
 - Tweak the design (for example when it comes to the left and right margins of the text).
 - Point www.martinlarsson.net to this adress. (It's underway.)
 - Fix Google Analytics on the page. (Wait until the DNS have been resolved.)

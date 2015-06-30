@@ -1,28 +1,15 @@
 <html>
-
-	<head>
-		<title>Martin Larsson</title>
-		<meta charset="UTF-8">
-		<link rel="stylesheet" href="/style.css" type="text/css">
-  		{% include googleAnalytics.html %}
-	</head>
-
+	{% include head.html %}
 	<body>
 		<div class=wrapper>
 
 			<div class=logo><a href="/index.html" class=logo>ML<span class="logoDot">.</span></a></div>
 
-			<div class=navigation>
-				<nav>
-	  				I'm <a href="/index.html" {% if page.title == "About"%}{% include selected.html %}{% endif %}>Martin Larsson</a>. I write <a href="/essays.html" {% if page.title == "Essays"%}{% include selected.html %}{% endif %}>essays</a>, produce <a href="/articles.html" {% if page.title == "Articles"%}{% include selected.html %}{% endif %}>articles</a>, make <a href="/movies.html" {% if page.title == "Movies"%}{% include selected.html %}{% endif %}>movies</a>, create <a href="/music.html" {% if page.title == "Music"%}{% include selected.html %}{% endif %}>music</a>, and code <a href="/software.html" {% if page.title == "Software"%}{% include selected.html %}{% endif %}>software</a>. This is my internet repository. I write in <a href="#" {% include selected.html %}>English</a> and (soon in) Swedish.
-				</nav>
-			</div>
+			{% include headerNavigation.html %}
 			<div class="textBlock">
 				{{content}}
 			</div>
-			<br>
-			<br>
-			<center><a href="/index.html" {% if page.title == "About"%}{% include selected.html %}{% endif %}>about</a> | <a href="/essays.html" {% if page.title == "Essays"%}{% include selected.html %}{% endif %}>essays</a> | <a href="/articles.html" {% if page.title == "Articles"%}{% include selected.html %}{% endif %}>articles</a> | <a href="/movies.html" {% if page.title == "Movies"%}{% include selected.html %}{% endif %}>movies</a> | <a href="/music.html" {% if page.title == "Music"%}{% include selected.html %}{% endif %}>music</a> | <a href="/software.html" {% if page.title == "Software"%}{% include selected.html %}{% endif %}>software</a><br><a href="#" {% include selected.html %}>English</a> | Swedish<br>© Martin Larsson, {{ 'now' | date: "%Y" }}</center>
+			{% include footer.html %}
 		</div>
 	</body>
 </html>

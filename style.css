@@ -232,7 +232,7 @@ img.left
 	} 
 }
 
-@media all and (orientation: landscape) {
+@media all and (orientation: portrait) {
 	body 
 	{
 		font-size: 18pt;

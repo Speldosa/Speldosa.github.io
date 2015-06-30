@@ -4,7 +4,7 @@ body
 {
 	font-family: 'PT Sans', sans-serif;
 	font-weight: 400;
-	font-size: 14pt;
+	font-size: 1.25em;
 	text-align: justify;
 }
 
@@ -172,7 +172,7 @@ img.left
     max-width: 40%;
 }
 
-@media screen and (min-width: 1px) and (max-width: 800px) {
+@media only screen and (min-width: 1px) and (max-width: 800px) {
 
 	body 
 	{
@@ -213,7 +213,7 @@ img.left
 	}
 }
 
-@media screen and (min-width: 1px) and (max-width: 500px) {
+@media only screen and (min-width: 1px) and (max-width: 500px) {
 	
 	body
 	{

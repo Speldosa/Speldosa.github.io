@@ -1,34 +1,37 @@
 # To-do
 
 ## Primary:
-- Move domains to new domain registrator.
-- Tweak the design (for example when it comes to the left and right margins of the text).
+- Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
+- Find a e-mail icon and put it on the index-page before the email.
+- Create folders for each subsection so that the URL gets nicer.
+- Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
+- Tweak the design (for example when it comes to the left and right margins of the text as well as headnings and stuff).
+	- I probably shouldn't use pt for font size.
 - Make a version for phones and iPads (both portrait and landscape).
 	- Make sure that subtle things like the icon size gets correct.
+	- Fix so that the bottom menu item doesn't have overlapping markings.
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
 	- Footnotes?
 	- Source/references?
-- Fix Google Analytics on the page.
-- Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
+- Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out.
+- Make the final version of Unit 153.
+- Upload everything connected to the essay pages.
+- Fix Google Analytics on the page. (When registrator move is finished.)
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
 	- Yellow version.
 	- Teal version.
 	- Blue version.
 	- Green version?
-- Find a e-mail icon and put it on the index-page before the email.
+- Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
 
 
 ## Secondary:
-- Create folders for each subsection so that the URL gets nicer.
-- Tweak the design of the whole site (for example, think about how you want your headnings to look; should some of them be centered?).
-- Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
+- Write small summaries for each article. (Maybe make it so that there is some kind of fold out text. Should the summary description work the same way? Or should the text there be displayed directly?)
 - See if you can find a better font.
 - Migrate old blog posts that are good to the new site.
-- Write small summaries for each article. (Make it so that there is some kind of fold out text.)
-- Write small summaries for each essay. 
-- Do a Swedish version of the site.
-- Make items for "articles", "music", "movie", and "software". Include English and Swedish front matter to make it easier to edit.
+- Make a Swedish version of the site.
+	- Make items for "articles", "music", "movie", and "software". Include English and Swedish front matter to make it easier to edit.
 - Create the Billie Jean segment from the Kling Kokos concert.
 
 
@@ -40,5 +43,5 @@
 
 # Resources
 
-Github tutorials: https://www.youtube.com/playlist?list=PLWjCJDeWfDdfSZOQYvsy_jJiAvx4uaJLB
-Jekyll tutorials: https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
+- [https://www.youtube.com/playlist?list=PLWjCJDeWfDdfSZOQYvsy_jJiAvx4uaJLB](Github tutorials)
+- [https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-](Jekyll tutorials)

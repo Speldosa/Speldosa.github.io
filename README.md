@@ -1,15 +1,12 @@
 # To-do
 
 ## Primary:
-- Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
-- Find a e-mail icon and put it on the index-page before the email.
-- Create folders for each subsection so that the URL gets nicer.
-- Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
-- Tweak the design (for example when it comes to the left and right margins of the text as well as headnings and stuff).
-	- I probably shouldn't use pt for font size.
 - Make a version for phones and iPads (both portrait and landscape).
 	- Make sure that subtle things like the icon size gets correct.
 	- Fix so that the bottom menu item doesn't have overlapping markings.
+- Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
+- Create folders for each subsection so that the URL gets nicer.
+- Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
 	- Footnotes?

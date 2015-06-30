@@ -1,9 +1,6 @@
 # To-do
 
 ## Primary:
-- Make a version for phones and iPads (both portrait and landscape).
-	- Make sure that subtle things like the icon size gets correct.
-	- Fix so that the bottom menu item doesn't have overlapping markings.
 - Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
 - Create folders for each subsection so that the URL gets nicer.
 - Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
@@ -20,6 +17,8 @@
 	- Blue version.
 	- Green version?
 - Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
+- Tweak the phone interface:
+	- Make a new footer menu (hamburger?) for the phone interface.
 
 
 ## Secondary:

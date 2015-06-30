@@ -27,7 +27,7 @@
 - Make a Swedish version of the site.
 	- Make items for "articles", "music", "movie", and "software". Include English and Swedish front matter to make it easier to edit.
 - Create the Billie Jean segment from the Kling Kokos concert.
-
+- Create a RSS feed.
 
 ## Maybe:
 - Create a section called books where I put reference texts that constantly are updated.

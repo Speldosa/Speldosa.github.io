@@ -227,11 +227,9 @@ img.left
 	} 
 }
 
-
-@media handheld {
-	.embed-container
-	{ 
-		padding-bottom: 40.00%; 
-		max-width: 95%; 
-	}
-}
+@media screen and (orientation:portrait) { 
+	body
+	{
+		font-size: 18pt;
+	} 
+ }

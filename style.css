@@ -238,5 +238,9 @@ img.left
 		font-size: 18pt;
 		text-align: justify;
 	}
+	.wrapper
+	{
+		padding: 0em;
+	}
 
 }

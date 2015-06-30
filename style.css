@@ -226,19 +226,3 @@ img.left
 		max-width: 95%; 
 	} 
 }
-
-@media screen and (orientation:portrait) { 
-	body
-	{
-		font-size: 36pt;
-	} 
-	.wrapper
-	{
-		
-	}
-	.embed-container 
-	{ 
-		padding-bottom: 40.00%; 
-		max-width: 95%; 
-	} 
- }

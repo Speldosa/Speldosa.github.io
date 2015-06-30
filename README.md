@@ -1,14 +1,9 @@
 # To-do
 
 ## Primary:
-- [https://youtu.be/C49lhiX_JO0](Fix a site map).
 - Fix so that Soundcloud looks okay on the phone.
-- Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
 
 ## Secondary:
-- Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
-- Tweak the phone interface:
-	- Make a new footer menu (hamburger?) for the phone interface.
 - Check the resources for [http://jekyllrb.com/docs/datafiles/](data files) and for [http://jekyllrb.com/docs/collections/](collections). Is this something that I should put to use going further?
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.

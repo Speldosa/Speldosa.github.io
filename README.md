@@ -1,13 +1,15 @@
 # To-do
 
 ## Primary:
+- Move domains to new domain registrator.
 - Tweak the design (for example when it comes to the left and right margins of the text).
 - Make a version for phones and iPads (both portrait and landscape).
+	- Make sure that subtle things like the icon size gets correct.
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
 	- Footnotes?
 	- Source/references?
-- Fix Google Analytics on the page. (Wait until the DNS have been resolved.)
+- Fix Google Analytics on the page.
 - Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
 	- Yellow version.

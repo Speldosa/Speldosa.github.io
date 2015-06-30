@@ -235,7 +235,7 @@ img.left
 @media all and (orientation: portrait) {
 	body 
 	{
-		font-size: 18pt;
+		font-size: 26pt;
 		text-align: justify;
 	}
 	.wrapper

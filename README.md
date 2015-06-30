@@ -2,6 +2,7 @@
 
 ## Primary:
 - Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
+- Fix so that Soundcloud looks okay on the phone.
 - Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
@@ -10,6 +11,7 @@
 - Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out.
 - Make the final version of Unit 153.
 - Upload everything connected to the essay pages.
+- [https://youtu.be/H4Fc2xL79nU](Make the CSS better organized)
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
 	- Yellow version.
 	- Teal version.

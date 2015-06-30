@@ -155,7 +155,7 @@ img.left
 
 	body 
 	{
-		font-size: 12pt;
+		font-size: 1em;
 		text-align: justify;
 	}
 
@@ -212,9 +212,6 @@ img.left
 }
 
 @media only screen and (max-device-width: 400px){
-a
-{
-	color: blue;
-}
+
 
 }

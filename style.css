@@ -213,6 +213,11 @@ img.left
 
 @media only screen and (max-device-width: 400px){
 
+	body
+	{
+		font-size: 1.3em;
+	}
+
 	.wrapper
 	{
     	margin-left: auto;

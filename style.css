@@ -172,11 +172,12 @@ img.left
     max-width: 40%;
 }
 
-@media screen and (min-width: 501px) and (max-width: 800px) {
+@media screen and (min-width: 1px) and (max-width: 800px) {
 
 	body 
 	{
 		font-size: 12pt;
+		text-align: justify;
 	}
 
 	.wrapper
@@ -208,18 +209,18 @@ img.left
 	
 	.textBlock
 	{
-		text-align: left;
-	}
-
-	.bioDescription
-	{
-		text-align: left;
+		text-align: justify;
 	}
 }
 
 @media screen and (min-width: 1px) and (max-width: 500px) {
 	
 	body
+	{
+		text-align: left;
+	}
+
+	.textBlock
 	{
 		text-align: left;
 	}

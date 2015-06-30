@@ -2,7 +2,6 @@
 
 ## Primary:
 - Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
-- Create folders for each subsection so that the URL gets nicer.
 - Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.

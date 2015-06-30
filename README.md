@@ -1,11 +1,15 @@
 # To-do
 
 ## Primary:
-- Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
 - [https://youtu.be/C49lhiX_JO0](Fix a site map).
 - Fix so that Soundcloud looks okay on the phone.
 - Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
-- Check the resources for [http://jekyllrb.com/docs/datafiles/](data files) and for [http://jekyllrb.com/docs/collections/](collections).
+
+## Secondary:
+- Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
+- Tweak the phone interface:
+	- Make a new footer menu (hamburger?) for the phone interface.
+- Check the resources for [http://jekyllrb.com/docs/datafiles/](data files) and for [http://jekyllrb.com/docs/collections/](collections). Is this something that I should put to use going further?
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
 	- Footnotes?
@@ -21,11 +25,6 @@
 	- Blue version.
 	- Green version.
 - Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
-- Tweak the phone interface:
-	- Make a new footer menu (hamburger?) for the phone interface.
-
-
-## Secondary:
 - Write small summaries for each article. (Maybe make it so that there is some kind of fold out text. Should the summary description work the same way? Or should the text there be displayed directly?)
 - See if you can find a better font.
 - Migrate old blog posts that are good to the new site.
@@ -39,8 +38,6 @@
 - Make categories for the different pages just as ia has done for https://ia.net/de/know-how. (<- I don't know if this is necessary until I get more content on the site.)
 - Create a HTML version of the master thesis. 
 
-
 # Resources
-
 - [https://www.youtube.com/playlist?list=PLWjCJDeWfDdfSZOQYvsy_jJiAvx4uaJLB](Github tutorials)
 - [https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-](Jekyll tutorials)

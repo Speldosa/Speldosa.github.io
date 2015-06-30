@@ -232,4 +232,9 @@ img.left
 	{
 		font-size: 18pt;
 	} 
+	.embed-container 
+	{ 
+		padding-bottom: 40.00%; 
+		max-width: 95%; 
+	} 
  }

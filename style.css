@@ -213,5 +213,13 @@ img.left
 
 @media only screen and (max-device-width: 400px){
 
+	.wrapper
+	{
+    	margin-left: auto;
+    	margin-right: auto;
+		padding: 0em;
+		border: 0em;
+		width: 97.5%;
+	}
 
 }

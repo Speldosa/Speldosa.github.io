@@ -211,7 +211,7 @@ img.left
 	} 
 }
 
-@media only screen and (max-device-width: 400px) and (orientation:portrait){
+@media only screen and (max-device-width: 800px) and (orientation:portrait){
 
 	body
 	{
@@ -232,7 +232,7 @@ img.left
 		width: 97.5%;
 	}
 
-@media only screen and (max-device-width: 400px) and (orientation:landscape){
+@media only screen and (max-device-width: 800px) and (orientation:landscape){
 
 	body
 	{
@@ -250,7 +250,7 @@ img.left
     	margin-right: auto;
 		padding: 0em;
 		border: 0em;
-		width: 5%;
+		width: 90%;
 	}
 
 }

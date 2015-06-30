@@ -215,7 +215,7 @@ img.left
 
 	body
 	{
-		font-size: 2.25em;
+		font-size: 2.5em;
 	}
 
 	.textBlock
@@ -250,7 +250,7 @@ img.left
     	margin-right: auto;
 		padding: 0em;
 		border: 0em;
-		width: 97.5%;
+		width: 5%;
 	}
 
 }

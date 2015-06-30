@@ -230,8 +230,12 @@ img.left
 @media screen and (orientation:portrait) { 
 	body
 	{
-		font-size: 18pt;
+		font-size: 26pt;
 	} 
+	.wrapper
+	{
+		
+	}
 	.embed-container 
 	{ 
 		padding-bottom: 40.00%; 

@@ -1,0 +1,17 @@
+<url>
+
+	<loc>http://www.martinlarsson.net{{include.entry.url}}</loc>
+
+	{% if include.entry.lastmod %}
+		<lastmod>{{include.entry.lastmod}}</lastmod>
+	{% endif %}
+
+	{% if include.entry.changefreq %}
+		<changefreq>{{include.entry.changefreq}}</changefreq>
+	{% endif %}
+
+	{% if include.entry.priority %}
+		<priority>{{include.entry.priority}}</priority>
+	{% endif %}
+
+</url>

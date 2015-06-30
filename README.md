@@ -14,7 +14,6 @@
 - Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out.
 - Make the final version of Unit 153.
 - Upload everything connected to the essay pages.
-- Fix Google Analytics on the page. (When registrator move is finished.)
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
 	- Yellow version.
 	- Teal version.

@@ -10,7 +10,7 @@ body
 
 a
 {
-	color: black;
+	color: rgb(167,22,53);
 }
 
 .foreignLanguage
@@ -77,11 +77,6 @@ a
 {
 	text-align: justify;
     margin-top: 4em;
-}
-
-a
-{
-	color: rgb(167,22,53);
 }
 
 .textBlock a
@@ -214,4 +209,12 @@ img.left
 		padding-bottom: 40.00%; 
 		max-width: 95%; 
 	} 
+}
+
+@media only screen and (max-device-width: 400px){
+a
+{
+	color: blue;
+}
+
 }

@@ -1,5 +1,108 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
 
+@media only screen and (min-width: 1px) and (max-width: 500px) {
+	
+	body
+	{
+		text-align: left;
+	}
+
+	.textBlock
+	{
+		text-align: left;
+	}
+
+	.embed-container 
+	{ 
+		padding-bottom: 40.00%; 
+		max-width: 95%; 
+	} 
+}
+
+@media only screen and (min-width: 1px) and (max-width: 800px) {
+
+	body 
+	{
+		font-size: 1em;
+		text-align: justify;
+	}
+
+	.wrapper
+	{
+    	margin-left: auto;
+    	margin-right: auto;
+		padding: 0em;
+		border: 0em;
+		width: 97.5%;
+	}
+
+	.logo
+	{
+		text-decoration: none;
+ 	   	margin-left: auto;
+    	margin-right: auto;
+		font-size: 1.7em;
+		font-weight: 700;
+		text-align: center;
+	}
+
+	.navigation
+	{
+    	margin-left: auto;
+    	margin-right: auto;
+		text-align: center;
+		margin-top: 2em;
+	}
+	
+	.textBlock
+	{
+		text-align: justify;
+	}
+}
+
+@media only screen and (max-device-width: 600px) and (orientation:portrait){
+
+	body
+	{
+		font-size: 2.5em;
+	}
+
+	.textBlock
+	{
+		text-align: left;
+	}
+
+	.wrapper
+	{
+    	margin-left: auto;
+    	margin-right: auto;
+		padding: 0em;
+		border: 0em;
+		width: 97.5%;
+	}
+
+@media only screen and (max-device-width: 600px) and (orientation:landscape){
+
+	body
+	{
+		font-size: 1.5em;
+	}
+
+	.textBlock
+	{
+		text-align: left;
+	}
+
+	.wrapper
+	{
+    	margin-left: auto;
+    	margin-right: auto;
+		padding: 0em;
+		border: 0em;
+		width: 95%;
+	}
+}
+
 body 
 {
 	font-family: 'PT Sans', sans-serif;
@@ -149,108 +252,4 @@ img.left
 	margin: 0 auto;
 	min-width: 40%;
     max-width: 40%;
-}
-
-@media only screen and (min-width: 1px) and (max-width: 800px) {
-
-	body 
-	{
-		font-size: 1em;
-		text-align: justify;
-	}
-
-	.wrapper
-	{
-    	margin-left: auto;
-    	margin-right: auto;
-		padding: 0em;
-		border: 0em;
-		width: 97.5%;
-	}
-
-	.logo
-	{
-		text-decoration: none;
- 	   	margin-left: auto;
-    	margin-right: auto;
-		font-size: 1.7em;
-		font-weight: 700;
-		text-align: center;
-	}
-
-	.navigation
-	{
-    	margin-left: auto;
-    	margin-right: auto;
-		text-align: center;
-		margin-top: 2em;
-	}
-	
-	.textBlock
-	{
-		text-align: justify;
-	}
-}
-
-@media only screen and (min-width: 1px) and (max-width: 500px) {
-	
-	body
-	{
-		text-align: left;
-	}
-
-	.textBlock
-	{
-		text-align: left;
-	}
-
-	.embed-container 
-	{ 
-		padding-bottom: 40.00%; 
-		max-width: 95%; 
-	} 
-}
-
-@media only screen and (max-device-width: 600px) and (orientation:portrait){
-
-	body
-	{
-		font-size: 2.5em;
-	}
-
-	.textBlock
-	{
-		text-align: left;
-	}
-
-	.wrapper
-	{
-    	margin-left: auto;
-    	margin-right: auto;
-		padding: 0em;
-		border: 0em;
-		width: 97.5%;
-	}
-
-@media only screen and (max-device-width: 600px) and (orientation:landscape){
-
-	body
-	{
-		font-size: 1.5em;
-	}
-
-	.textBlock
-	{
-		text-align: left;
-	}
-
-	.wrapper
-	{
-    	margin-left: auto;
-    	margin-right: auto;
-		padding: 0em;
-		border: 0em;
-		width: 95%;
-	}
-
 }

@@ -231,16 +231,3 @@ img.left
 		max-width: 95%; 
 	} 
 }
-
-@media all and (orientation: portrait) {
-	body 
-	{
-		font-size: 26pt;
-		text-align: justify;
-	}
-	.wrapper
-	{
-		padding: 0em;
-	}
-
-}

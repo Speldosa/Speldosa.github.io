@@ -231,3 +231,12 @@ img.left
 		max-width: 95%; 
 	} 
 }
+
+@media all and (orientation: landscape) {
+	body 
+	{
+		font-size: 18pt;
+		text-align: justify;
+	}
+
+}

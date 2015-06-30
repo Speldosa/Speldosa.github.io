@@ -2,6 +2,7 @@
 
 ## Primary:
 - Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
+- [https://youtu.be/C49lhiX_JO0](Fixa site map)
 - Fix so that Soundcloud looks okay on the phone.
 - Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
 - Design the look and feel of the essay post page.
@@ -13,10 +14,11 @@
 - Upload everything connected to the essay pages.
 - [https://youtu.be/H4Fc2xL79nU](Make the CSS better organized)
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
+	- Pink version.
 	- Yellow version.
 	- Teal version.
 	- Blue version.
-	- Green version?
+	- Green version.
 - Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
 - Tweak the phone interface:
 	- Make a new footer menu (hamburger?) for the phone interface.

@@ -1,0 +1,16 @@
+---
+title: Essays
+layout: default
+---
+
+<p>Essays are shorter pieces of writing that I publish here on my site. I'm currently in the process of migrating the best blog post from my old site to this page.</p>
+
+<div>
+	<ul>
+		{% for essay in site.posts %}
+		<li>
+			<a href="./{{essay.url}}">{{essay.title}}</a><br>{{essay.description}}<br><br>
+		</li>
+		{% endfor %}
+	</ul>
+</div>

@@ -2,9 +2,10 @@
 
 ## Primary:
 - Move domains to new domain registrator (Hover?) (Buy new domain while you're at it).
-- [https://youtu.be/C49lhiX_JO0](Fixa site map)
+- [https://youtu.be/C49lhiX_JO0](Fix a site map).
 - Fix so that Soundcloud looks okay on the phone.
 - Fix with meta-data: https://www.youtube.com/watch?v=qJQNJcm-edk
+- Check the resources for [http://jekyllrb.com/docs/datafiles/](data files) and for [http://jekyllrb.com/docs/collections/](collections).
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
 	- Footnotes?
@@ -12,7 +13,7 @@
 - Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out.
 - Make the final version of Unit 153.
 - Upload everything connected to the essay pages.
-- [https://youtu.be/H4Fc2xL79nU](Make the CSS better organized)
+- [https://youtu.be/H4Fc2xL79nU](Make the CSS better organized).
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
 	- Pink version.
 	- Yellow version.

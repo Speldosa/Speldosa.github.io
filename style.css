@@ -177,7 +177,6 @@ img.left
 	body 
 	{
 		font-size: 12pt;
-		text-align: left;
 	}
 
 	.wrapper
@@ -220,6 +219,11 @@ img.left
 
 @media screen and (min-width: 1px) and (max-width: 500px) {
 	
+	body
+	{
+		text-align: left;
+	}
+
 	.embed-container 
 	{ 
 		padding-bottom: 40.00%; 

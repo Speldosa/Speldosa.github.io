@@ -13,6 +13,11 @@ a
 	color: rgb(167,22,53);
 }
 
+.bulletsWithoutBullets
+{
+	list-style-type: none;
+}
+
 .foreignLanguage
 {
 	color: gray;

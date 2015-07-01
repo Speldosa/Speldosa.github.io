@@ -32,6 +32,9 @@
 - Make categories for the different pages just as ia has done for https://ia.net/de/know-how. (<- I don't know if this is necessary until I get more content on the site.)
 - Create a HTML version of the master thesis. 
 
+## Idead:
+- When you publish something with someone who has a homepage, link to that page.
+
 # Resources
 - [https://www.youtube.com/playlist?list=PLWjCJDeWfDdfSZOQYvsy_jJiAvx4uaJLB](Github tutorials)
 - [https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-](Jekyll tutorials)

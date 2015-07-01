@@ -36,6 +36,22 @@ a:hover {
 	text-decoration: underline;
 }
 
+.selectedFake
+{
+	background-color: rgb(242,151,171);
+	color: rgb(167,22,53);
+	text-decoration: underline;
+    border-radius: 0.25em;
+    pointer-events: none;
+}
+
+.selectedFake:hover
+{
+	background-color: rgb(242,151,171);
+	color: rgb(167,22,53);
+	text-decoration: underline;
+}
+
 .logo
 {
 	color: black;

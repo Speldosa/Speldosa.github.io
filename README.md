@@ -1,9 +1,6 @@
 # To-do
 
 ## Primary:
-- Fix so that Soundcloud looks okay on the phone.
-
-## Secondary:
 - Check the resources for [http://jekyllrb.com/docs/datafiles/](data files) and for [http://jekyllrb.com/docs/collections/](collections). Is this something that I should put to use going further?
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.
@@ -19,14 +16,16 @@
 	- Teal version.
 	- Blue version.
 	- Green version.
-- Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
 - Write small summaries for each article. (Maybe make it so that there is some kind of fold out text. Should the summary description work the same way? Or should the text there be displayed directly?)
 - See if you can find a better font.
 - Migrate old blog posts that are good to the new site.
 - Make a Swedish version of the site.
 	- Make items for "articles", "music", "movie", and "software". Include English and Swedish front matter to make it easier to edit.
-- Create the Billie Jean segment from the Kling Kokos concert.
+	- Should I create an official subdomain with my registrar or something?
+- Update photo of yourself.
+- Fix mp3-versions of the arranged songs. (Wait until you have fixed the script.)
 - Create a RSS feed.
+- - Create the Billie Jean segment from the Kling Kokos concert.
 
 ## Maybe:
 - Create a section called books where I put reference texts that constantly are updated.

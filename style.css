@@ -13,13 +13,13 @@ a
 	color: rgb(167,22,53);
 }
 
-a:hover {
+/*a:hover {
 	background-color: rgb(255,221,241);
 	color: rgb(167,22,53);
 	text-decoration: none;
     border-radius: 0.25em;
     text-decoration: underline;
-}
+}*/
 
 .selected
 {

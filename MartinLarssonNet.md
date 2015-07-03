@@ -1,6 +1,10 @@
 # To-do
 
 ## Primary:
+- Work with sitemaps
+	- Do the rest of what's being mentioned in [http://www.relishtraymedia.com/blog/bid/257788/SEO-Sitelinks-How-to-Get-Google-Subheadings-in-Search-Results](this article).
+	- Resolve the error Google Search Console throws regarding a [https://en.wikipedia.org/wiki/HTTP_302](302 error).
+	- Expand the sitemap even further. See [https://support.google.com/webmasters/topic/4581190?hl=en&ref_topic=4581352](Google's page about it).
 - Check the resources for [http://jekyllrb.com/docs/datafiles/](data files) and for [http://jekyllrb.com/docs/collections/](collections). Is this something that I should put to use going further?
 - Design the look and feel of the essay post page.
 	- Fix it so that the title get its own font.

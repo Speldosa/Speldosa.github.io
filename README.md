@@ -1,6 +1,9 @@
 # To-do
 
 ## Primary:
+- Do I really want to call the essay section "essays"? Would something else be better? "Texts" maybe?
+- Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out. [http://jekyllrb.com/docs/permalinks/](Here's) an explanation of how you can set up permalinks. I'm thinking about the lines of just placeing them in the "essays" folder, with their title.
+- Should I remove the hover?
 - Work with sitemaps
 	- Do the rest of what's being mentioned in [http://www.relishtraymedia.com/blog/bid/257788/SEO-Sitelinks-How-to-Get-Google-Subheadings-in-Search-Results](this article).
 	- Resolve the error Google Search Console throws regarding a [https://en.wikipedia.org/wiki/HTTP_302](302 error).
@@ -10,7 +13,6 @@
 	- Fix it so that the title get its own font.
 	- Footnotes?
 	- Source/references?
-- Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out.
 - Make the final version of Unit 153.
 - Upload everything connected to the essay pages.
 - [https://youtu.be/H4Fc2xL79nU](Make the CSS better organized).

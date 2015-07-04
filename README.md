@@ -1,6 +1,7 @@
 # To-do
 
 ## Primary:
+- Update "Vägarna" PDF.
 - Do I really want to call the essay section "essays"? Would something else be better? "Texts" maybe?
 - Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out. [http://jekyllrb.com/docs/permalinks/](Here's) an explanation of how you can set up permalinks. I'm thinking about the lines of just placeing them in the "essays" folder, with their title.
 - Should I remove the hover?

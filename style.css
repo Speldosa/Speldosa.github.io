@@ -93,6 +93,22 @@ a
 	color: rgb(227,82,113);
 }
 
+.postTitle
+{
+	text-align: center;
+}
+
+.postDate
+{
+	text-align: center;
+}
+
+.divider
+{
+	font-size: 1.4em;
+	text-align: center;
+}
+
 .soundCloud
 {
 	width: 70%; 
@@ -159,7 +175,6 @@ a
 .textBlock
 {
 	text-align: justify;
-    margin-top: 4em;
 }
 
 .textBlock a
@@ -169,21 +184,26 @@ a
 
 h1
 {
-	font-size: 1.5em;
-	font-weight: 400;
+	font-size: 1.20em;
 	text-align: center;
+    font-weight: bold;
 }
 
 h2
 {
-	font-size: 1.25em;
+	font-size: 1.15em;
 	font-weight: 400;
 }
 
 .img
 {
-    margin-top: 4em;
-    margin-bottom: 4em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.imgTop
+{
+    margin-bottom: 2em;
 }
 
 .icon

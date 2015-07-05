@@ -1,7 +1,14 @@
 # To-do
 
 ## Primary:
-- Update "Vägarna" PDF.
+- Design the look and feel of the essay post page.
+	- The layout.
+	- Fix it so that the title get its own font.
+	- Footnotes?
+	- Source/references?
+- Make the final version of Unit 153.
+- Upload everything connected to the essay pages.
+- Fix a favicon.ico.
 - Do I really want to call the essay section "essays"? Would something else be better? "Texts" maybe?
 - Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out. [http://jekyllrb.com/docs/permalinks/](Here's) an explanation of how you can set up permalinks. I'm thinking about the lines of just placeing them in the "essays" folder, with their title.
 - Should I remove the hover?
@@ -10,12 +17,6 @@
 	- Resolve the error Google Search Console throws regarding a [https://en.wikipedia.org/wiki/HTTP_302](302 error).
 	- Expand the sitemap even further. See [https://support.google.com/webmasters/topic/4581190?hl=en&ref_topic=4581352](Google's page about it).
 - Check the resources for [http://jekyllrb.com/docs/datafiles/](data files) and for [http://jekyllrb.com/docs/collections/](collections). Is this something that I should put to use going further?
-- Design the look and feel of the essay post page.
-	- Fix it so that the title get its own font.
-	- Footnotes?
-	- Source/references?
-- Make the final version of Unit 153.
-- Upload everything connected to the essay pages.
 - [https://youtu.be/H4Fc2xL79nU](Make the CSS better organized).
 - Make the dot in the logo take on a random color from a list every time the site is loaded. Make the links the same color (but in a darker/less saturated version).
 	- Pink version.

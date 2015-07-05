@@ -1,3 +1,4 @@
 markdown: redcarpet
 exclude: ['README.md']
-permalink: pretty
+baseurl: ""
+permalink: texts/:title

@@ -13,14 +13,6 @@ a
 	color: rgb(167,22,53);
 }
 
-/*a:hover {
-	background-color: rgb(255,221,241);
-	color: rgb(167,22,53);
-	text-decoration: none;
-    border-radius: 0.25em;
-    text-decoration: underline;
-}*/
-
 .selected
 {
 	background-color: rgb(242,151,171);
@@ -28,13 +20,6 @@ a
 	text-decoration: underline;
     border-radius: 0.25em;
 }
-
-/*.selected:hover
-{
-	background-color: rgb(242,151,171);
-	color: rgb(167,22,53);
-	text-decoration: underline;
-}*/
 
 .selectedFake
 {
@@ -44,13 +29,6 @@ a
     border-radius: 0.25em;
     pointer-events: none;
 }
-
-/*.selectedFake:hover
-{
-	background-color: rgb(242,151,171);
-	color: rgb(167,22,53);
-	text-decoration: underline;
-}*/
 
 .logo
 {
@@ -76,18 +54,6 @@ a
 	text-align: center;
 }
 
-/*.logoLink:hover
-{
-	color: black;
-	text-decoration: none;
-	background-color: transparent;
-    margin-left: auto;
-    margin-right: auto;
-	font-size: 1.9em;
-	font-weight: 700;
-	text-align: center;
-}
-*/
 .logoDot
 {
 	color: rgb(227,82,113);
@@ -95,7 +61,9 @@ a
 
 .postTitle
 {
+	font-size: 1.20em;
 	text-align: center;
+    font-weight: bold;
 }
 
 .postDate

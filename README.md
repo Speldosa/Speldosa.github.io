@@ -7,11 +7,10 @@
 	- Footnotes?
 	- Source/references?
 - Make the final version of Unit 153.
-- Upload everything connected to the essay pages.
+- 'Essays' or 'texts'? I'm still not sure. 
+- Upload everything connected to the text pages.
+- Migrate old blog posts that are good to the new site.
 - Fix a favicon.ico.
-- Do I really want to call the essay section "essays"? Would something else be better? "Texts" maybe?
-- Should permalinks to essays be in date folders? Or should they be placed in folders according tags or something? Can we use pages instead of posts? Figure all this out. [http://jekyllrb.com/docs/permalinks/](Here's) an explanation of how you can set up permalinks. I'm thinking about the lines of just placeing them in the "essays" folder, with their title.
-- Should I remove the hover?
 - Work with sitemaps
 	- Do the rest of what's being mentioned in [http://www.relishtraymedia.com/blog/bid/257788/SEO-Sitelinks-How-to-Get-Google-Subheadings-in-Search-Results](this article).
 	- Resolve the error Google Search Console throws regarding a [https://en.wikipedia.org/wiki/HTTP_302](302 error).
@@ -26,7 +25,8 @@
 	- Green version.
 - Write small summaries for each article. (Maybe make it so that there is some kind of fold out text. Should the summary description work the same way? Or should the text there be displayed directly?)
 - See if you can find a better font.
-- Migrate old blog posts that are good to the new site.
+
+## Secondary:
 - Make a Swedish version of the site.
 	- Make items for "articles", "music", "movie", and "software". Include English and Swedish front matter to make it easier to edit.
 	- Should I create an official subdomain with my registrar or something?
@@ -36,6 +36,7 @@
 - - Create the Billie Jean segment from the Kling Kokos concert.
 
 ## Maybe:
+- Create a new main index page that features the latest updates. Or something.
 - Create a section called books where I put reference texts that constantly are updated.
 - Make categories for the different pages just as ia has done for https://ia.net/de/know-how. (<- I don't know if this is necessary until I get more content on the site.)
 - Create a HTML version of the master thesis. 

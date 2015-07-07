@@ -10,7 +10,6 @@
 - 'Essays' or 'texts'? I'm still not sure. 
 - Upload everything connected to the text pages.
 - Migrate old blog posts that are good to the new site.
-- Fix a favicon.ico.
 - Work with sitemaps
 	- Do the rest of what's being mentioned in [http://www.relishtraymedia.com/blog/bid/257788/SEO-Sitelinks-How-to-Get-Google-Subheadings-in-Search-Results](this article).
 	- Resolve the error Google Search Console throws regarding a [https://en.wikipedia.org/wiki/HTTP_302](302 error).

@@ -271,6 +271,12 @@ img.profile
 }
 
 @media only screen and (max-device-width: 600px){
+	img.profile
+	{
+		min-width: 60%;
+		max-width: 60%;
+	}
+
 	.soundCloud
 	{
 		width: 100%; 

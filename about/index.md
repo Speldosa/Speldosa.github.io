@@ -5,7 +5,7 @@ meta: Some info about Martin Larsson.
 changefreq: monthly
 ---
 
-<div class=imgTop><img class=left src="/images/Martin.jpg" alt="profile picture of Martin Larsson."></div>
+<div class=imgTop><img class=profile src="/images/Martin.jpg" alt="profile picture of Martin Larsson."></div>
 
 #### About me
 

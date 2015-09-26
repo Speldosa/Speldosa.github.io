@@ -11,6 +11,7 @@ What follows is a selection of some different kind of musical pieces that I've c
 These are some choir arrangements that I've made for SATB choirs.
 
 * Martin Larsson (2015). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([MIDI](./Då väntar jag vid vägarna.midi))
+* Martin Larsson (2015). Hard Rock Hallelujah. ([PDF](./Hard Rock Hallelujah.pdf)) ([MIDI](./Hard Rock Hallelujah.midi))
 * Martin Larsson (2014). Seasons of Love. ([PDF](./Seasons of Love.pdf)) ([MIDI](./Seasons of Love.midi))
 * Martin Larsson (2014). Show me Heaven. ([PDF](./Show me Heaven.pdf)) ([MIDI](./Show me Heaven.midi))
 * Martin Larsson (2013). Haunted Graveyard. ([PDF](./Haunted Graveyard.pdf)) ([MIDI](./Haunted Graveyard.midi))

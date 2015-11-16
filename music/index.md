@@ -15,7 +15,7 @@ These are some choir arrangements that I've made for SATB choirs.
 * Martin Larsson (2014). Seasons of Love. ([PDF](./Seasons of Love.pdf)) ([Piano](./Seasons of Love.mp3)) ([MIDI](./Seasons of Love.midi))
 * Martin Larsson (2014). Show me Heaven. ([PDF](./Show me Heaven.pdf)) ([Piano](./Show me Heaven.mp3)) ([MIDI](./Show me Heaven.midi))
 * Martin Larsson (2013). Haunted Graveyard. ([PDF](./Haunted Graveyard.pdf)) ([Piano](./Haunted Graveyard.mp3)) ([MIDI](./Haunted Graveyard.midi))
-* Martin Larsson and Geirmund Simonsen (2011). Bille Jean. ([PDF](./Billie Jean.pdf)) ([Recording](./Billie Jean.mp3))
+* Martin Larsson and Geirmund Simonsen (2011). Bille Jean. ([PDF](./Billie Jean.pdf)) ([Recording](./Billie Jean; performed by Kling Kokos.mp3))
 
 #### Produced music
 

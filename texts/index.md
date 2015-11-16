@@ -15,5 +15,5 @@ What follows is a list of different texts that I've written.
 #### Newspaper articles
 
 <ul>
-	<div class=foreignLanguage><li>Ivan Spehar and Martin Larsson (2012). [The teaching has to change] [Norwegian]. <i>Bergens tidene, 2012-02-03.</i> (<a href="./Spehar_Larsson_2012_-_Undervisningen_må_endres.pdf">PDF</a>)</li></div>
+	<div class=foreignLanguage><li>Ivan Spehar and Martin Larsson (2012). [The teaching has to change; Norwegian]. <i>Bergens tidene, 2012-02-03.</i> (<a href="./Spehar_Larsson_2012_-_Undervisningen_må_endres.pdf">PDF</a>)</li></div>
 </ul>

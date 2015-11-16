@@ -102,7 +102,7 @@ a
 	color: gray;
 }
 
-.embed-containerYouTube235 
+.embed-container-YouTube235 
 { 
 	position: relative; 
 	padding-bottom: 36.75%; 
@@ -110,9 +110,9 @@ a
 	overflow: hidden; 
 	max-width: 90%; 
 } 
-.embed-container iframe, 
-.embed-container object, 
-.embed-container embed 
+.embed-container-YouTube235 iframe, 
+.embed-container-YouTube235 object, 
+.embed-container-YouTube235 embed 
 { 
 	position: absolute; 
 	top: 0; 
@@ -121,7 +121,7 @@ a
 	height: 100%; 
 }
 
-.embed-containerVimeo
+.embed-container-Vimeo
 { 
 	position: relative; 
 	padding-bottom: 39%; 
@@ -129,9 +129,9 @@ a
 	overflow: hidden; 
 	max-width: 90%; 
 } 
-.embed-containerVimeo iframe, 
-.embed-containerVimeo object, 
-.embed-containerVimeo embed 
+.embed-container-Vimeo iframe, 
+.embed-container-Vimeo object, 
+.embed-container-Vimeo embed 
 { 
 	position: absolute; 
 	top: 0; 

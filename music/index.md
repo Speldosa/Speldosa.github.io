@@ -10,12 +10,12 @@ What follows is a selection of some different kind of musical pieces that I've c
 #### Choir arrangements
 These are some choir arrangements that I've made for SATB choirs.
 
-* Martin Larsson (2015). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([MP3](./Då väntar jag vid vägarna.mp3)) ([MIDI](./Då väntar jag vid vägarna.midi))
-* Martin Larsson (2015). Hard Rock Hallelujah. ([PDF](./Hard Rock Hallelujah.pdf)) ([MP3](./Hard Rock Hallelujah.mp3)) ([MIDI](./Hard Rock Hallelujah.midi))
-* Martin Larsson (2014). Seasons of Love. ([PDF](./Seasons of Love.pdf)) ([MP3](./Seasons of Love.mp3)) ([MIDI](./Seasons of Love.midi))
-* Martin Larsson (2014). Show me Heaven. ([PDF](./Show me Heaven.pdf)) ([MP3](./Show me Heaven.mp3)) ([MIDI](./Show me Heaven.midi))
-* Martin Larsson (2013). Haunted Graveyard. ([PDF](./Haunted Graveyard.pdf)) ([MP3](./Haunted Graveyard.mp3)) ([MIDI](./Haunted Graveyard.midi))
-* Martin Larsson and Geirmund Simonsen (2011). Bille Jean. ([PDF](./Billie Jean.pdf))
+* Martin Larsson (2015). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([Piano](./Då väntar jag vid vägarna.mp3)) ([MIDI](./Då väntar jag vid vägarna.midi))
+* Martin Larsson (2015). Hard Rock Hallelujah. ([PDF](./Hard Rock Hallelujah.pdf)) ([Piano](./Hard Rock Hallelujah.mp3)) ([MIDI](./Hard Rock Hallelujah.midi))
+* Martin Larsson (2014). Seasons of Love. ([PDF](./Seasons of Love.pdf)) ([Piano](./Seasons of Love.mp3)) ([MIDI](./Seasons of Love.midi))
+* Martin Larsson (2014). Show me Heaven. ([PDF](./Show me Heaven.pdf)) ([Piano](./Show me Heaven.mp3)) ([MIDI](./Show me Heaven.midi))
+* Martin Larsson (2013). Haunted Graveyard. ([PDF](./Haunted Graveyard.pdf)) ([Piano](./Haunted Graveyard.mp3)) ([MIDI](./Haunted Graveyard.midi))
+* Martin Larsson and Geirmund Simonsen (2011). Bille Jean. ([PDF](./Billie Jean.pdf)) ([Recording](./Billie Jean.mp3))
 
 #### Produced music
 

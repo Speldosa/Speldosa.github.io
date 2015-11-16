@@ -19,7 +19,7 @@ These are some choir arrangements that I've made for SATB choirs.
 
 #### Produced music
 
-I sometimes create and post produced music on my Soundcloud page.
+I sometimes create and post produced music on my [my Soundcloud page](https://soundcloud.com/speldosa).
 
 <p><center><iframe 	scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/322465&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" class=soundCloud ></iframe></center></p>
 

@@ -17,6 +17,13 @@ These are some choir arrangements that I've made for SATB choirs.
 * Martin Larsson (2013). Haunted Graveyard. ([PDF](./Haunted Graveyard.pdf)) ([Piano](./Haunted Graveyard.mp3)) ([MIDI](./Haunted Graveyard.midi))
 * Martin Larsson and Geirmund Simonsen (2011). Bille Jean. ([PDF](./Billie Jean.pdf)) ([Recording](./Kling Kokos - Billie Jean.mp3))
 
+#### Choir performances
+
+These are some of the choir performances that I've taken part in together with Stockholm's University Choir. To see and hear more, go to the choir's [YouTube channel](https://www.youtube.com/channel/UCEtoFncuNG7mi1wYDD06VVA) or [homepage](http://www.stockholmsuniversitetskor.se).
+
+<p><center><div class='embed-container-YouTube235'><iframe src='https://www.youtube.com/watch?v=Qx49I4jc2QE' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>
+<p><center><div class='embed-container-YouTube235'><iframe src='https://www.youtube.com/embed/WAfPKNSvesI' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>
+
 #### Produced music
 
 I sometimes create and post produced music on my [my Soundcloud page](https://soundcloud.com/speldosa).

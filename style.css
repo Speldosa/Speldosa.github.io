@@ -105,7 +105,8 @@ a
 .embed-container-YouTube235 
 { 
 	position: relative; 
-	padding-bottom: 36.75%; 
+	/* padding-bottom: 36.75%; */
+	padding-bottom: 38%;
 	height: 0; 
 	overflow: hidden; 
 	max-width: 90%; 

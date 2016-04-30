@@ -9,7 +9,7 @@ changefreq: monthly
 
 #### About me
 
-My name is Martin Larsson. I'm a cognitive scientist interested in science, philosophy, design and the intersection between the three afformentioned fields. I also like to be creative.
+My name is Martin Asperholm. I'm a cognitive scientist interested in science, philosophy, design and the intersection between the three afformentioned fields. I also like to be creative.
 
 Currently, I'm a PhD student at [The Division of Psychology](http://ki.se/en/the-division-of-psychology) (where I'm also the Webmaster) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se), and I'm leadning [Filmbasen's](http://www.filmbasen.se) film club [Återklippning](http://www.filmbasen.se/node/78351). My CV can be downloaded [here](./Martin Larsson CV.pdf).
 

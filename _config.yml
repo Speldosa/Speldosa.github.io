@@ -3,6 +3,5 @@ exclude: ['README.md']
 baseurl: ""
 permalink: texts/:title
 kramdown: 
-  parse_block_html: true
   html_to_native: true
-  parse_span_html: true
+

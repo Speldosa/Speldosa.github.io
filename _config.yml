@@ -1,7 +1,5 @@
-markdown: kramdown
+markdown: redcarpet
 exclude: ['README.md']
 baseurl: ""
 permalink: texts/:title
-kramdown: 
-  html_to_native: true
 

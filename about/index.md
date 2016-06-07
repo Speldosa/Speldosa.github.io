@@ -1,7 +1,7 @@
----
+﻿---
 title: About
 layout: default
-meta: Some info about Martin Larsson.
+meta: Some info about Martin Asperholm.
 changefreq: monthly
 ---
 
@@ -11,7 +11,7 @@ changefreq: monthly
 
 My name is Martin Asperholm. I'm a cognitive scientist interested in science, philosophy, design and the intersection between the three afformentioned fields. I also like to be creative.
 
-Currently, I'm a PhD student at [The Division of Psychology](http://ki.se/en/the-division-of-psychology) (where I'm also the Webmaster) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se). My CV can be downloaded [here](./Martin Larsson CV.pdf).
+Currently, I'm a PhD student at [The Division of Psychology](http://ki.se/en/the-division-of-psychology) (where I'm also the Webmaster) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se). My CV can be downloaded [here](./Martin Asperholm CV.pdf).
 
 #### About this site
 This site is my repository on the internet. It's where I will post and organize all the content that I've created and that I think is worth sharing. This site is still under construction, so expect it to change from time to time.
@@ -28,6 +28,5 @@ Outgoing links is one way of showing some internet love, nudging sites ever so s
 #### Contact me
 You can contact me at:
 <ul class=bulletsWithoutBullets>
-	<li><img src="/images/Mail.svg" title="http://fortawesome.github.io/Font-Awesome/icon/envelope-o/" class=icon> <a href="mailto:to.martin.larsson@gmail.com">to.martin.larsson@gmail.com</a></li>
-	<li><img src="/images/TwitterIcon.svg" class=icon><a href="https://twitter.com/mrtnlrssn">@mrtnlrssn</a></li>
+	<li><img src="/images/Mail.svg" title="http://fortawesome.github.io/Font-Awesome/icon/envelope-o/" class=icon> <a href="mailto:martin.asperholm@gmail.com">martin.asperholm@gmail.com</a></li>
 </ul>

@@ -1,7 +1,7 @@
 ---
 title: Texts
 layout: default
-meta: Articles produced by Martin Larsson.
+meta: Articles produced by Martin Asperholm.
 changefreq: monthly
 ---
 

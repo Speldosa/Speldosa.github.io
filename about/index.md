@@ -1,14 +1,13 @@
-﻿---
+---
 title: About
 layout: default
 meta: Some info about Martin Asperholm.
 changefreq: monthly
 ---
-
+Test.
 <div class=imgTop><img class=profile src="/images/Martin.jpg" alt="profile picture of Martin Larsson."></div>
 
 #### About me
-Test.
 My name is Martin Asperholm. I'm a cognitive scientist interested in science, philosophy, design and the intersection between the three afformentioned fields. I also like to be creative.
 
 Currently, I'm a PhD student at [The Division of Psychology](http://ki.se/en/the-division-of-psychology) (where I'm also the Webmaster) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se). My CV can be downloaded [here](./Martin Asperholm CV.pdf).

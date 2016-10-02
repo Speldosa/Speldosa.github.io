@@ -10,6 +10,7 @@ What follows is a selection of some different kind of musical pieces that I've c
 #### Choir arrangements
 These are some choir arrangements that I've made for SATB choirs.
 
+* Martin Asperholm (2016). Du finns inom mig. ([PDF](./Du finns inom mig.pdf)) ([MIDI](./Du finns inom mig.midi))
 * Martin Larsson (2015). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([Piano](./Då väntar jag vid vägarna.mp3)) ([MIDI](./Då väntar jag vid vägarna.midi))
 * Martin Larsson (2015). Hard Rock Hallelujah. ([PDF](./Hard Rock Hallelujah.pdf)) ([Piano](./Hard Rock Hallelujah.mp3)) ([MIDI](./Hard Rock Hallelujah.midi))
 * Martin Larsson (2014). Seasons of Love. ([PDF](./Seasons of Love.pdf)) ([Piano](./Seasons of Love.mp3)) ([MIDI](./Seasons of Love.midi))

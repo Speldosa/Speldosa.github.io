@@ -10,6 +10,7 @@ What follows is a selection of some different kind of musical pieces that I've c
 #### Choir arrangements
 These are some choir arrangements that I've made for SATB choirs.
 
+* Martin Asperholm (2017). Ja, må du leva. ([PDF](./Ja, må du leva.pdf)) ([Piano](./Ja, må du leva.mp3)) ([MIDI](./Ja, må du leva.midi))
 * Martin Asperholm (2016). Du finns inom mig. ([PDF](./Du finns inom mig.pdf)) ([Piano](./Du finns inom mig.mp3)) ([MIDI](./Du finns inom mig.midi))
 * Martin Asperholm (2016). I don't want to miss a thing. ([PDF](./I don't want to miss a thing.pdf)) ([Piano](./I don't want to miss a thing.mp3)) ([MIDI](./I don't want to miss a thing.midi))
 * Martin Larsson (2015). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([Piano](./Då väntar jag vid vägarna.mp3)) ([MIDI](./Då väntar jag vid vägarna.midi))

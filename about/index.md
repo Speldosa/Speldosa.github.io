@@ -5,7 +5,7 @@ meta: Some info about Martin Asperholm.
 changefreq: monthly
 ---
 
-<div class=imgTop>
+<div>
 <img class=profile src="/images/Martin.jpg" alt="Profile picture of Martin Asperholm.">
 </div>
 

@@ -5,7 +5,7 @@ meta: Some info about Martin Asperholm.
 changefreq: monthly
 ---
 
-<div class=imgTop><img class=profile src="/Martin.jpg" alt="profile picture of Martin Larsson."></div>
+<p><div class=imgTop><img class=profile src="/images/Martin.jpg" alt="Profile picture of Martin Asperholm."></div></p>
 
 #### About me
 My name is Martin Asperholm. I'm a cognitive scientist interested in science, philosophy, design and the intersection between the three afformentioned fields. I also like to be creative.

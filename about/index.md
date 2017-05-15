@@ -17,7 +17,7 @@ Currently, I'm a PhD student at [The Division of Psychology](http://ki.se/en/cns
 #### About this site
 This site is my repository on the internet. It's where I will post and organize all the content that I've created and that I think is worth sharing. This site is still under construction, so expect it to change from time to time.
 
-This site is hosted at <img src="/images/GithubLogo.svg" class=icon> [Github pages](https://pages.github.com/), which runs <img src="/images/JekyllIcon.svg" class="iconJekyll"> [Jekyll](http://jekyllrb.com/), the deus ex machina of the web. To hear more about it, listen to [this episode of The Web Ahead](http://5by5.tv/webahead/54)</a>. If you want to host your own site on Github, I can warmly recommend [Tomas Bradley YouTube tutorials](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-) on the matter.
+This site is hosted at <img src="/images/GithubLogo.svg" class="icon"> [Github pages](https://pages.github.com/), which runs <img src="/images/JekyllIcon.svg" class="iconJekyll"> [Jekyll](http://jekyllrb.com/), the deus ex machina of the web. To hear more about it, listen to [this episode of The Web Ahead](http://5by5.tv/webahead/54)</a>. If you want to host your own site on Github, I can warmly recommend [Tomas Bradley YouTube tutorials](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-) on the matter.
 
 #### Contact me
 You can contact me at:

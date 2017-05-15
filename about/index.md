@@ -6,7 +6,7 @@ changefreq: monthly
 ---
 
 <div>
-<img class=profile src="/images/Martin.jpg" alt="Profile picture of Martin Asperholm.">
+<img src="/images/Martin.jpg" alt="Profile picture of Martin Asperholm.">
 </div>
 
 #### About me

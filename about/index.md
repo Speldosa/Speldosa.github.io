@@ -21,6 +21,6 @@ This site is hosted at <img src="/images/GithubLogo.svg" class=icon> [Github pag
 
 #### Contact me
 You can contact me at:
-<ul class=bulletsWithoutBullets>
+<ul class="bulletsWithoutBullets">
 	<li><img src="/images/Mail.svg" title="http://fortawesome.github.io/Font-Awesome/icon/envelope-o/" class=icon> <a href="mailto:martin.asperholm@gmail.com">martin.asperholm@gmail.com</a></li>
 </ul>

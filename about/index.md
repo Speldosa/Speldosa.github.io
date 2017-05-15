@@ -5,8 +5,8 @@ meta: Some info about Martin Asperholm.
 changefreq: monthly
 ---
 
-<div>
-<img src="/images/Martin.jpg" alt="Profile picture of Martin Asperholm.">
+<div class="imgTop">
+<img class="profile" src="/images/Martin.jpg" alt="Profile picture of Martin Asperholm.">
 </div>
 
 #### About me

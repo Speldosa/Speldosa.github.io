@@ -12,6 +12,7 @@ These are some choir arrangements that I've made for SATB choirs.
 
 * Martin Asperholm (2017). Den som inga byxor har. ([PDF](./Den som inga byxor har.pdf)) ([Piano](./Den som inga byxor har.mp3)) ([MIDI](./Den som inga byxor har.midi))
 * Martin Asperholm (2017). Ja, må du leva. ([PDF](./Ja, må du leva.pdf)) ([Piano](./Ja, må du leva.mp3)) ([MIDI](./Ja, må du leva.midi))
+* Martin Asperholm (2017). Kalle Theodor. ([PDF](./Kalle Theodor.pdf)) ([Piano](./Kalle Theodor.mp3)) ([MIDI](./Kalle Theodor.midi))
 * Martin Asperholm (2017). Vart du än går. ([PDF](./Vart du än går.pdf)) ([Piano](./Vart du än går.mp3)) ([MIDI](./Vart du än går.midi))
 * Martin Asperholm (2016). Du finns inom mig. ([PDF](./Du finns inom mig.pdf)) ([Piano](./Du finns inom mig.mp3)) ([MIDI](./Du finns inom mig.midi))
 * Martin Asperholm (2016). I don't want to miss a thing. ([PDF](./I don't want to miss a thing.pdf)) ([Piano](./I don't want to miss a thing.mp3)) ([MIDI](./I don't want to miss a thing.midi))

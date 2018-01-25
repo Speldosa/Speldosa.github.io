@@ -26,8 +26,8 @@ These are some choir arrangements that I've made for SATB choirs.
 #### Choir performances
 
 These are some of the choir performances that I've taken part in (and recorded) together with Stockholm's University Choir. To see and hear more, go to the choir's [YouTube channel](https://www.youtube.com/channel/UCEtoFncuNG7mi1wYDD06VVA) or [homepage](http://www.stockholmsuniversitetskor.se).
-<p><center><div class="embed-container-YouTube235"><iframe src='https://youtu.be/gQ6UDYMFymA' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>
-<p><center><div class="embed-container-YouTube235"><iframe src='https://youtu.be/BUo14IuJZ-k' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>
+<p><center><div class="embed-container-YouTube235"><iframe src='https://www.youtube.com/embed/gQ6UDYMFymA' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>
+<p><center><div class="embed-container-YouTube235"><iframe src='https://www.youtube.com/embed/BUo14IuJZ-k' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>
 <p><center><div class="embed-container-YouTube235"><iframe src='https://www.youtube.com/embed/Yc8TgfmediA' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>
 <p><center><div class="embed-container-YouTube235"><iframe src='https://www.youtube.com/embed/ZS44tL-YTe4' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>
 <p><center><div class="embed-container-YouTube235_alt"><iframe src='https://www.youtube.com/embed/Qx49I4jc2QE' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div></center></p>

@@ -199,6 +199,27 @@ img.profile
 	height: 250; 
 }
 
+.embed-container-YouTube
+{ 
+	position: relative; 
+	/* padding-bottom: 36.75%; */
+	/* padding-bottom: 36%; */
+	height: 0; 
+	overflow: hidden; 
+	max-width: 90%;
+} 
+.embed-container-YouTube iframe, 
+.embed-container-YouTube object, 
+.embed-container-YouTube embed 
+{ 
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	width: 100%; 
+	height: 100%; 
+}
+
+
 .embed-container-YouTube235
 { 
 	position: relative; 

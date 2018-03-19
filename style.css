@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
+@import url('https://fonts.googleapis.com/css?family=Kreon');
 
 /************
 * Standard. *
@@ -118,8 +119,9 @@ a.selected
 ************/
 h1
 {
+	font-family: 'Kreon', serif;
 	padding-top: 0.75em;
-	font-size: 1em;
+	font-size: 1.1em;
     font-weight: bold;
 }
 

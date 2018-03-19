@@ -199,18 +199,17 @@ img.profile
 	height: 250; 
 }
 
-.embed-container-YouTube
+.embed-container-YouTube169
 { 
 	position: relative; 
-	/* padding-bottom: 36.75%; */
-	/* padding-bottom: 36%; */
+	padding-bottom: 50.5%;
 	height: 0; 
 	overflow: hidden; 
 	max-width: 90%;
 } 
-.embed-container-YouTube iframe, 
-.embed-container-YouTube object, 
-.embed-container-YouTube embed 
+.embed-container-YouTube169 iframe, 
+.embed-container-YouTube169 object, 
+.embed-container-YouTube169 embed 
 { 
 	position: absolute; 
 	top: 0; 

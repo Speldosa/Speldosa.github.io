@@ -1,11 +1,14 @@
 <html>
 	{% include head.html %}
 	<body>
-		<div class=wrapper>
+		<div class=headerWrapper>
 			{% include logo.html %}
 			{% include headerNavigation.html %}
-			<br><br>
+		</div>
+		<div class=contentWrapper>
 			{{content}}
+		</div>
+		<div class=footer>
 			{% include footer.html %}
 		</div>
 	</body>

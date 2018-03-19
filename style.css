@@ -1,105 +1,197 @@
----
----
-
 @import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
 
 
+/************
+* Standard. *
+************/
 body 
 {
 	font-family: 'PT Sans', sans-serif;
 	font-weight: 400;
 	font-size: 1.20em;
 	text-align: justify;
+    margin: 0;
+    padding: 0;
 }
 
 a
 {
-	color: rgb(167,22,53);
+	color: #ff4c4c;
 }
 
-.selected
+/**********
+* Header. *
+**********/
+.headerWrapper
 {
-	background-color: rgb(242,151,171);
-	color: rgb(167,22,53);
-	text-decoration: underline;
-    border-radius: 0.25em;
+	text-align: center;
+	background-color: #ff4c4c;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	margin-bottom: 2em;
 }
 
-.selectedFake
-{
-	background-color: rgb(242,151,171);
-	color: rgb(167,22,53);
-	text-decoration: underline;
-    border-radius: 0.25em;
-    pointer-events: none;
-}
 
+/********
+* Logo. *
+********/
 .logo
 {
-	color: black;
+	color: white;
 	text-decoration: none;
-	background-color: transparent;
-    margin-left: auto;
-    margin-right: auto;
 	font-size: 1.9em;
 	font-weight: 700;
-	text-align: center;
 }
 
 .logoLink
 {
-	color: black;
+	color: white;
 	text-decoration: none;
-	background-color: transparent;
-    margin-left: auto;
-    margin-right: auto;
 	font-size: 1.9em;
 	font-weight: 700;
-	text-align: center;
 }
 
 .logoDot
 {
-	color: rgb(227,82,113);
+	color: yellow;
 }
 
-.postTitle
+
+/**************
+* Navigation. *
+**************/
+.navigation
 {
-	font-size: 1.20em;
+	color: white;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.navigation a 
+{
+	color: white;
+}
+
+.selected
+{
+	background-color: white;
+	text-decoration: underline;
+    border-radius: 0.25em;
+}
+
+a.selected
+{
+	color: #ff4c4c;
+}
+
+
+/**********
+* Footer. *
+**********/
+.footer 
+{
+	color: white;
+	background-color: #ff4c4c;
 	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	margin-top: 2em;
+}
+
+.footer a
+{
+	color: white;
+}
+
+.selected
+{
+	background-color: white;
+	text-decoration: underline;
+    border-radius: 0.25em;
+}
+
+a.selected
+{
+	color: #ff4c4c;
+}
+
+/************
+* Headings. *
+************/
+h1
+{
+	font-size: 1em;
     font-weight: bold;
 }
 
-.postDate
+
+/***********
+* Content. *
+***********/
+.contentWrapper
 {
-	text-align: center;
+	margin: 0 auto;
+	padding-left: 1em;
+	padding-right: 1em;
+    margin-top: 2em;
+	width: 38em;
 }
 
-.divider
+
+/********************
+* Images and logos. *
+********************/
+.img
 {
-	font-size: 1.4em;
-	text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
+.imgTop
+{
+    margin-bottom: 2em;
+}
+
+img.logo
+{
+    display: block;
+	margin: 0 auto;
+	width: 10em;
+}
+
+img.text
+{
+    display: block;
+	margin: 0 auto;
+	width: 100%;
+}
+
+img.profile
+{
+    display: block;
+	margin: 0 auto;
+	min-width: 40%;
+    max-width: 40%;
+}
+
+.icon
+{
+	width: 1em;
+}
+
+.iconJekyll
+{
+	width: 0.5em;
+}
+
+
+/********************
+* Embed containers. *
+********************/
 .soundCloud
 {
 	width: 70%; 
 	height: 250; 
-}
-
-.bulletsWithoutBullets
-{
-	list-style-type: none;
-}
-
-.foreignLanguage
-{
-	color: gray;
-}
-
-.foreignLanguage a
-{
-	color: gray;
 }
 
 .embed-container-YouTube235
@@ -161,95 +253,10 @@ a
 	height: 100%; 
 }
 
-.wrapper
-{
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2em;
-	padding: 2em;
-	width: 38em;
-}
 
-.indented
-{
-	padding-top: 0.01em;
-	margin-left: 2em;
-}
-
-.navigation
-{
-    margin-left: auto;
-    margin-right: auto;
-	text-align: center;
-	margin-top: 2em;
-}
-
-.textBlock
-{
-	text-align: justify;
-}
-
-.textBlock a
-{
-	color: rgb(167,22,53);
-}
-
-h1
-{
-	font-size: 1.20em;
-	text-align: center;
-    font-weight: bold;
-}
-
-h2
-{
-	font-size: 1.15em;
-	font-weight: 400;
-}
-
-.img
-{
-    margin-top: 2em;
-    margin-bottom: 2em;
-}
-
-.imgTop
-{
-    margin-bottom: 2em;
-}
-
-.icon
-{
-	width: 1em;
-}
-
-.iconJekyll
-{
-	width: 0.5em;
-}
-
-img.logo
-{
-    display: block;
-	margin: 0 auto;
-	width: 10em;
-}
-
-img.text
-{
-    display: block;
-	margin: 0 auto;
-	width: 100%;
-}
-
-img.profile
-{
-    display: block;
-	margin: 0 auto;
-	min-width: 40%;
-    max-width: 40%;
-}
-
+/**************
+* Responsive. *
+**************/
 @media only screen and (min-width: 1px) and (max-width: 500px) {
 	
 	body
@@ -277,7 +284,7 @@ img.profile
 		text-align: justify;
 	}
 
-	.wrapper
+	.contentWrapper
 	{
     	margin-left: auto;
     	margin-right: auto;
@@ -301,7 +308,6 @@ img.profile
     	margin-left: auto;
     	margin-right: auto;
 		text-align: center;
-		margin-top: 2em;
 	}
 	
 	.textBlock
@@ -336,7 +342,7 @@ img.profile
 		text-align: left;
 	}
 
-	.wrapper
+	.contentWrapper
 	{
     	margin-left: auto;
     	margin-right: auto;
@@ -363,7 +369,7 @@ img.profile
 		text-align: left;
 	}
 
-	.wrapper
+	.contentWrapper
 	{
     	margin-left: auto;
     	margin-right: auto;
@@ -372,3 +378,4 @@ img.profile
 		width: 95%;
 	}
 }
+*/

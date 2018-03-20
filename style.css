@@ -64,17 +64,12 @@ a:hover
 	letter-spacing: 0.1em;
 	font-family: 'PT Sans', sans-serif;
 	color: white;
-	text-decoration: none;
-	font-size: 1.9em;
-	font-weight: 700;
 }
 
 .logoLink
 {
 	color: white;
 	text-decoration: none;
-	font-size: 1.9em;
-	font-weight: 700;
 }
 
 .logoLink:hover

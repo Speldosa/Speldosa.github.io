@@ -20,6 +20,16 @@ a
 	color: #ff4c4c;
 }
 
+::selection 
+{
+	background: yellow;
+}
+
+::-moz-selection 
+{
+	background: yellow;
+}
+
 /**********
 * Header. *
 **********/

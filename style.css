@@ -1,14 +1,14 @@
-@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
-@import url('https://fonts.googleapis.com/css?family=Kreon');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 
 /************
 * Standard. *
 ************/
 body 
 {
-	font-family: 'PT Sans', sans-serif;
-	font-weight: 400;
-	font-size: 1.2em;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.1em;
 	text-align: justify;
     margin: 0;
     padding: 0;
@@ -18,6 +18,14 @@ body
 a
 {
 	color: #ff4c4c;
+}
+
+a:hover
+{
+	color: white;
+	color: #ff4c4c;
+	background-color: yellow;;
+	border-radius: 0.25em;
 }
 
 ::selection 
@@ -47,6 +55,8 @@ a
 ********/
 .logo
 {
+	letter-spacing: 0.1em;
+	font-family: 'Noto Serif', serif;
 	color: white;
 	text-decoration: none;
 	font-size: 1.9em;
@@ -59,6 +69,12 @@ a
 	text-decoration: none;
 	font-size: 1.9em;
 	font-weight: 700;
+}
+
+.logoLink:hover
+{
+	background-color: transparent;
+	color: white;
 }
 
 .logoDot
@@ -82,6 +98,14 @@ a
 	color: white;
 }
 
+.navigation a:hover
+{
+	color: white;
+	color: #ff4c4c;
+	background-color: yellow;;
+	border-radius: 0.25em;
+}
+
 .selected
 {
 	background-color: white;
@@ -94,6 +118,11 @@ a.selected
 	color: #ff4c4c;
 }
 
+a.selected:hover
+{
+	background-color: white;
+	color: #ff4c4c;
+}
 
 /**********
 * Footer. *
@@ -112,6 +141,14 @@ a.selected
 	color: white;
 }
 
+.footer a:hover
+{
+	color: white;
+	color: #ff4c4c;
+	background-color: yellow;;
+	border-radius: 0.25em;
+}
+
 .selected
 {
 	background-color: white;
@@ -124,12 +161,18 @@ a.selected
 	color: #ff4c4c;
 }
 
+a.selected:hover
+{
+	background-color: white;
+	color: #ff4c4c;
+}
+
 /************
 * Headings. *
 ************/
 h1
 {
-	font-family: 'Kreon', serif;
+	font-family: 'PT Sans', sans-serif;
 	padding-top: 0.75em;
 	font-size: 1.1em;
     font-weight: bold;

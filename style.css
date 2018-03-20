@@ -53,10 +53,16 @@ a:hover
 /********
 * Logo. *
 ********/
+.ImageLogo
+{
+	width: 6em;
+	padding-bottom: 1em;
+}
+
 .logo
 {
 	letter-spacing: 0.1em;
-	font-family: 'Noto Serif', serif;
+	font-family: 'PT Sans', sans-serif;
 	color: white;
 	text-decoration: none;
 	font-size: 1.9em;

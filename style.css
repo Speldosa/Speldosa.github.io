@@ -1,6 +1,13 @@
+/* Current red shade: #ff4c4c */
+
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+:root { 
+	--primaryColor: #ff4c4c;
+	--secondaryColor: #ffec80; 
+}
 
 /************
 * Standard. *
@@ -12,30 +19,30 @@ body
 	text-align: justify;
     margin: 0;
     padding: 0;
-    background-color: #ff4c4c;
+    background-color: primaryColor;
 }
 
 a
 {
-	color: #ff4c4c;
+	color: var(--primaryColor);
 }
 
 a:hover
 {
 	color: white;
-	color: #ff4c4c;
-	background-color: yellow;;
+	color: var(--primaryColor);
+	background-color: var(--secondaryColor);;
 	border-radius: 0.25em;
 }
 
 ::selection 
 {
-	background: yellow;
+	background: var(--secondaryColor);
 }
 
 ::-moz-selection 
 {
-	background: yellow;
+	background: var(--secondaryColor);
 }
 
 /**********
@@ -44,7 +51,7 @@ a:hover
 .headerWrapper
 {
 	text-align: center;
-	background-color: #ff4c4c;
+	background-color: var(--primaryColor);
 	padding-top: 2em;
 	padding-bottom: 2em;
 }
@@ -80,7 +87,7 @@ a:hover
 
 .logoDot
 {
-	color: yellow;
+	color: var(--secondaryColor);
 }
 
 
@@ -102,8 +109,8 @@ a:hover
 .navigation a:hover
 {
 	color: white;
-	color: #ff4c4c;
-	background-color: yellow;;
+	color: var(--primaryColor);
+	background-color: var(--secondaryColor);;
 	border-radius: 0.25em;
 }
 
@@ -116,13 +123,13 @@ a:hover
 
 a.selected
 {
-	color: #ff4c4c;
+	color: var(--primaryColor);
 }
 
 a.selected:hover
 {
 	background-color: white;
-	color: #ff4c4c;
+	color: var(--primaryColor);
 }
 
 /**********
@@ -131,7 +138,7 @@ a.selected:hover
 .footer 
 {
 	color: white;
-	background-color: #ff4c4c;
+	background-color: var(--primaryColor);
 	text-align: center;
 	padding-top: 2em;
 	padding-bottom: 2em;
@@ -145,8 +152,8 @@ a.selected:hover
 .footer a:hover
 {
 	color: white;
-	color: #ff4c4c;
-	background-color: yellow;;
+	color: var(--primaryColor);
+	background-color: var(--secondaryColor);;
 	border-radius: 0.25em;
 }
 
@@ -159,13 +166,13 @@ a.selected:hover
 
 a.selected
 {
-	color: #ff4c4c;
+	color: var(--primaryColor);
 }
 
 a.selected:hover
 {
 	background-color: white;
-	color: #ff4c4c;
+	color: var(--primaryColor);
 }
 
 /************

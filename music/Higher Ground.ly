@@ -217,7 +217,7 @@ tTwoMusic =
     % Chorus 1
     a8 a16 a8. a8 a8 a8 |
     a4 r4 a8 b8 |
-    cis8 cis16 cis8. a8 e'8 cis8 |
+    a8 a16 a8. a8 a8 cis8 |
     a4 r8 e8 b'8 cis8 |
 
     b8 b16 b8. b8 a8 a8 |
@@ -245,7 +245,7 @@ tTwoMusic =
     % Chorus 2
     a8 a16 a8. a8 a8 a8 |
     a4 r4 a8 b8 |
-    cis8 cis16 cis8. a8 e'8 cis8 |
+    a8 a16 a8. a8 a8 cis8 |
     a4 r8 e8 b'8 cis8 |
 
     b8 b16 b8. b8 a8 a8 |
@@ -255,7 +255,7 @@ tTwoMusic =
 
     a8 a16 a8. a8 a8 a8 |
     a4 r4 a8 b8 |
-    cis8 cis16 cis8. a8 e'8 cis8 |
+    a8 a16 a8. a8 a8 cis8 |
     a4 r8 e8 b'8 cis8 |
 
     b4. b8 cis8 a8 |
@@ -276,8 +276,8 @@ tTwoMusic =
 
     % Chorus 3
     cis8 cis16 cis16~ cis8 a8 b8 cis8 |
-    a4 r4 a8 b8 |
-    cis8 cis16 cis16~ cis8 a8 e'8 cis8 |
+    a4 r4 fis8 gis8 |
+    a8 a16 a16~ a8 a8 a8 cis8 |
     a4 r8 e8 b'8 cis8 |
 
     b8 b16 b16~ b8 b8 a8 a8 |
@@ -391,7 +391,7 @@ bOneMusic =
     fis8 fis16 fis16 r4 fis8 fis8 |
 
     % Chorus 3
-    fis8. fis8. fis8 fis8 fis8 |
+    cis8. cis8. cis8 cis8 cis8 |
     d8 d16 d16 r4 d8 e8 |
     e8 e16 e16~ e8 e8 e8 e8 |
     a2( gis8) r8 |
@@ -492,7 +492,7 @@ bTwoMusic =
     e2~ e8 r8 |
 
     b2 a4 |
-    e2 e8 r8 |
+    e2~ e8 r8 |
     d'2. |
     a4. r8 a8 a8 |
 
@@ -610,9 +610,9 @@ tOneWords = \lyricmode{
 
   % Bridge 2
   Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
+  hærr -- i jörð. Ta -- ka,
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
 
   % Chorus 3
   Freeze the arr -- ow in the
@@ -704,9 +704,9 @@ tTwoWords = \lyricmode{
 
   % Bridge 2
   Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
+  hærr -- i jörð. Ta -- ka,
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
 
   % Chorus 3
   Freeze the arr -- ow in the
@@ -765,15 +765,15 @@ bOneWords = \lyricmode{
 
   % Bridge 1
   Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
+  hærr -- i jörð. Ta -- ka,
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
 
   % Verse 2
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
 
   Men lay -- ing down their
   hærr -- i jörð. ta -- ka
@@ -807,12 +807,12 @@ bOneWords = \lyricmode{
 
   % Bridge 2
   Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
+  hærr -- i jörð. Ta -- ka,
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
 
   % Chorus 3
-  Humm, ta -- ka stökk á
+  humm, ta -- ka stökk á
   hærr -- i jörð. make your
   mark and leave it hang -- ing
   there.
@@ -871,18 +871,18 @@ bTwoWords = \lyricmode{
 
   % Bridge 1
   ground. stökk á
-  hærr -- i jörð. ta -- ka
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
+  hærr -- i jörð. Ta -- ka,
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
 
   % Verse 2
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
 
   Men lay -- ing down their
-  hærr -- i jörð. ta -- ka
+  hærr -- i jörð. Ta -- ka,
   each of their own a --
   board.
 
@@ -903,7 +903,7 @@ bTwoWords = \lyricmode{
   high.
 
   Oh... _
-  _ _
+  _
   _
   _ Take the
 
@@ -914,12 +914,12 @@ bTwoWords = \lyricmode{
 
   % Bridge 2
   Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
-  Humm, ta -- ka stökk á
-  hærr -- i jörð. ta -- ka
+  hærr -- i jörð. Ta -- ka,
+  humm, ta -- ka stökk á
+  hærr -- i jörð. Ta -- ka,
 
   % Chorus 3
-  Humm, ta -- ka stökk á
+  humm, ta -- ka stökk á
   hærr -- i jörð. make your
   mark and leave it hang -- ing
   there.

@@ -87,6 +87,7 @@ a:hover
 
 .logoDot
 {
+	position: relative;
 	/* Old, not animated, code */
 	/* color: var(--secondaryColor); */
 

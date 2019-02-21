@@ -9,7 +9,7 @@ changefreq: monthly
 <img class="profile" src="/images/Martin.jpg" alt="Profile picture of Martin Asperholm.">
 </div>
 
-# About mes
+# About me
 My name is Martin Asperholm. I'm a cognitive scientist interested in science, philosophy, design and the intersection between the three afformentioned fields. I also like to be creative.
 
 Currently, I'm a PhD student at [The Division of Psychology](http://ki.se/en/cns/the-division-of-psychology) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se). My CV can be downloaded [here](./Martin Asperholm CV.pdf).

@@ -29,7 +29,6 @@ a
 
 a:hover
 {
-	color: white;
 	color: var(--primaryColor);
 	background-color: var(--secondaryColor);;
 	border-radius: 0.25em;
@@ -68,7 +67,7 @@ a:hover
 	width: 60pt;
  	margin-left: auto;
    	margin-right: auto;
-	margin-bottom: 10pt;
+	margin-bottom: 12pt;
 }
 
 .logo a {
@@ -81,37 +80,37 @@ a:hover
 
 .logoDotWrapper	{
 	position: absolute;
-	left: 63pt;
-	top: 25pt;
+	left: 64pt;
+	top: 26pt;
 	width: 12pt;
 }
 
 .logoDot
 {
 	/* Code taken from: https://codepen.io/metagrapher/pen/tgcLl */
-	animation: colorchange 5s; /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
-	-webkit-animation: colorchange 5s; /* Chrome and Safari */
+	animation: colorchange 30s; /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
+	-webkit-animation: colorchange 30s; /* Chrome and Safari */
 	animation-iteration-count: infinite;
 	-webkit-animation-iteration-count: infinite;
 }
 
 @keyframes colorchange
 {
-	0%   {fill: yellow;}
-	25%  {fill: orange;}
-	50%  {fill: yellow;}
-	75%  {fill: orange;}
-	100% {fill: yellow;}
+	0%   {fill: #00f9ff;}
+	25% {fill: #15ff00;}
+	50%	{fill: #f0ff00;}
+	75%	{fill: #ff00a7;}
+	100%  {fill: #00f9ff;}
 }
 
 @-webkit-keyframes colorchange 
 {
 	/* Safari and Chrome - necessary duplicate */
-	0%   {fill: yellow;}
-	25%  {fill: orange;}
-	50%  {fill: yellow;}
-	75%  {fill: orange;}
-	100% {fill: yellow;}
+	0%   {fill: #00f9ff;}
+	25% {fill: #15ff00;}
+	50%	{fill: #f0ff00;}
+	75%	{fill: #ff00a7;}
+	100%  {fill: #00f9ff;}
 }
 
 
@@ -132,7 +131,6 @@ a:hover
 
 .navigation a:hover
 {
-	color: white;
 	color: var(--primaryColor);
 	background-color: var(--secondaryColor);;
 	border-radius: 0.25em;
@@ -141,7 +139,6 @@ a:hover
 .selected
 {
 	background-color: white;
-	text-decoration: underline;
     border-radius: 0.25em;
 }
 
@@ -152,7 +149,7 @@ a.selected
 
 a.selected:hover
 {
-	background-color: white;
+	background: white;
 	color: var(--primaryColor);
 }
 

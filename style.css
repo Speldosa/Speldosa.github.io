@@ -50,6 +50,7 @@ a:hover
 **********/
 .headerWrapper
 {
+	position: relative;
 	text-align: center;
 	background-color: var(--primaryColor);
 	padding-top: 2em;
@@ -60,59 +61,57 @@ a:hover
 /********
 * Logo. *
 ********/
-.ImageLogo
-{
-	width: 6em;
-	padding-bottom: 1em;
-}
-
 .logo
 {
-	letter-spacing: 0.1em;
-	font-family: 'PT Sans', sans-serif;
-	color: white;
+	position: relative;
+	text-align: center;
+	width: 60pt;
+ 	margin-left: auto;
+   	margin-right: auto;
+	margin-bottom: 10pt;
 }
 
-.logoLink
-{
-	color: white;
-	text-decoration: none;
+.logo a {
+	background: transparent;
 }
 
-.logoLink:hover
-{
-	background-color: transparent;
-	color: white;
+.logoLetters {
+	position: relative;
+}
+
+.logoDotWrapper	{
+	position: absolute;
+	left: 63pt;
+	top: 25pt;
+	width: 12pt;
 }
 
 .logoDot
 {
-	position: relative;
-	/* Old, not animated, code */
-	/* color: var(--secondaryColor); */
-
 	/* Code taken from: https://codepen.io/metagrapher/pen/tgcLl */
-	animation: colorchange 50s; /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
-	-webkit-animation: colorchange 50s; /* Chrome and Safari */
+	animation: colorchange 5s; /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
+	-webkit-animation: colorchange 5s; /* Chrome and Safari */
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
 }
 
 @keyframes colorchange
 {
-	0%   {fill: red;}
-	25%  {fill: yellow;}
-	50%  {fill: blue;}
-	75%  {fill: green;}
-	100% {fill: red;}
+	0%   {fill: yellow;}
+	25%  {fill: orange;}
+	50%  {fill: yellow;}
+	75%  {fill: orange;}
+	100% {fill: yellow;}
 }
 
 @-webkit-keyframes colorchange 
 {
 	/* Safari and Chrome - necessary duplicate */
-	0%   {fill: red;}
-	25%  {fill: yellow;}
-	50%  {fill: blue;}
-	75%  {fill: green;}
-	100% {fill: red;}
+	0%   {fill: yellow;}
+	25%  {fill: orange;}
+	50%  {fill: yellow;}
+	75%  {fill: orange;}
+	100% {fill: yellow;}
 }
 
 
@@ -243,13 +242,6 @@ h1
 .imgTop
 {
     margin-bottom: 2em;
-}
-
-img.logo
-{
-    display: block;
-	margin: 0 auto;
-	width: 10em;
 }
 
 img.text
@@ -406,16 +398,6 @@ img.profile
 		padding: 0em;
 		border: 0em;
 		width: 97.5%;
-	}
-
-	.logo
-	{
-		text-decoration: none;
- 	   	margin-left: auto;
-    	margin-right: auto;
-		font-size: 1.7em;
-		font-weight: 700;
-		text-align: center;
 	}
 
 	.navigation

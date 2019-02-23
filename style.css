@@ -6,8 +6,9 @@
 
 :root { 
 	/* --primaryColor: #ff4c4c; */
-	--primaryColor: black;
-	--secondaryColor: #ffec80; 
+	--primaryColor: #6f8bdc;
+	--secondaryColor: #ffec80;
+	--animationStartShift: 15s;
 }
 
 /************
@@ -26,13 +27,17 @@ body
 a
 {
 	color: var(--primaryColor);
+	border-radius: 0.25em;
 }
 
 a:hover
 {
-	color: var(--primaryColor);
-	background-color: var(--secondaryColor);;
-	border-radius: 0.25em;
+	/*color: var(--primaryColor);
+	background-color: var(--secondaryColor);*/
+	animation: colorchange_two 30s; /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
+	-webkit-animation: colorchange_two 30s; /* Chrome and Safari */
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
 }
 
 ::selection 
@@ -93,6 +98,9 @@ a:hover
 	-webkit-animation: colorchange 30s; /* Chrome and Safari */
 	animation-iteration-count: infinite;
 	-webkit-animation-iteration-count: infinite;
+	--animationStartShift: -var(--animationStartShift);
+	animation-delay: -20s;
+	-webkit-animation-delay: -20s;
 }
 
 @keyframes colorchange
@@ -114,6 +122,25 @@ a:hover
 	100%  {fill: #00f9ff;}
 }
 
+@keyframes colorchange_two
+{
+	0%   {background-color: #00f9ff;}
+	25% {background-color: #15ff00;}
+	50%	{background-color: #f0ff00;}
+	75%	{background-color: #ff00a7;}
+	100%  {background-color: #00f9ff;}
+}
+
+@-webkit-keyframes colorchange_two
+{
+	/* Safari and Chrome - necessary duplicate */
+	0%   {background-color: #00f9ff;}
+	25% {background-color: #15ff00;}
+	50%	{background-color: #f0ff00;}
+	75%	{background-color: #ff00a7;}
+	100%  {background-color: #00f9ff;}
+}
+
 
 /**************
 * Navigation. *
@@ -133,14 +160,12 @@ a:hover
 .navigation a:hover
 {
 	color: var(--primaryColor);
-	background-color: var(--secondaryColor);;
-	border-radius: 0.25em;
+	background-color: var(--secondaryColor);
 }
 
 .selected
 {
 	background-color: white;
-    border-radius: 0.25em;
 }
 
 a.selected

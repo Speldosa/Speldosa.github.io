@@ -4,11 +4,15 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 
-:root { 
+html { 
 	/* --primaryColor: #ff4c4c; */
-	--primaryColor: #6f8bdc;
-	--secondaryColor: #ffec80;
-	--animationStartShift: 15s;
+	--primaryColor: #ff5050;
+	--animationTime: 30s;
+	--animationStartShift: 0s;
+	--color1: rgb(51, 204, 255);
+	--color2: rgb(0, 230, 172);
+	--color3: rgb(51, 204, 255); 
+	--color4: rgb(0, 230, 172);
 }
 
 /************
@@ -17,38 +21,33 @@
 body
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 1.1em;
+	font-size: 100%;
 	text-align: justify;
     margin: 0;
     padding: 0;
-    background-color: var(--primaryColor);
+	background-color: var(--primaryColor);
 }
 
 a
 {
 	color: var(--primaryColor);
 	border-radius: 0.25em;
+	-webkit-transition: color 0.75s;
+	-webkit-transition: background-color 0.75s;
+	transition: color 0.75s;
+	transition: background-color: 0.75s linear;
 }
 
 a:hover
 {
-	/*color: var(--primaryColor);
-	background-color: var(--secondaryColor);*/
-	animation: colorchange_two 30s; /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
-	-webkit-animation: colorchange_two 30s; /* Chrome and Safari */
-	animation-iteration-count: infinite;
-	-webkit-animation-iteration-count: infinite;
+	color: white;
+	background-color: var(--primaryColor);
+	-webkit-transition: color 0.75s;
+	-webkit-transition: background-color 0.75s;
+	transition: color 0.75s;
+	transition: background-color: 0.75s linear;
 }
 
-::selection 
-{
-	background: var(--secondaryColor);
-}
-
-::-moz-selection 
-{
-	background: var(--secondaryColor);
-}
 
 /**********
 * Header. *
@@ -89,58 +88,19 @@ a:hover
 	left: 64pt;
 	top: 26pt;
 	width: 12pt;
+	height: 12pt;
 }
 
 .logoDot
 {
 	/* Code taken from: https://codepen.io/metagrapher/pen/tgcLl */
-	animation: colorchange 30s; /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
-	-webkit-animation: colorchange 30s; /* Chrome and Safari */
+	animation: colorchange_one var(--animationTime); /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
+	-webkit-animation: colorchange_one var(--animationTime); /* Chrome and Safari */
 	animation-iteration-count: infinite;
 	-webkit-animation-iteration-count: infinite;
-	--animationStartShift: -var(--animationStartShift);
-	animation-delay: -20s;
-	-webkit-animation-delay: -20s;
+	animation-delay: var(--animationStartShift);
+	-webkit-animation-delay: var(--animationStartShift);
 }
-
-@keyframes colorchange
-{
-	0%   {fill: #00f9ff;}
-	25% {fill: #15ff00;}
-	50%	{fill: #f0ff00;}
-	75%	{fill: #ff00a7;}
-	100%  {fill: #00f9ff;}
-}
-
-@-webkit-keyframes colorchange 
-{
-	/* Safari and Chrome - necessary duplicate */
-	0%   {fill: #00f9ff;}
-	25% {fill: #15ff00;}
-	50%	{fill: #f0ff00;}
-	75%	{fill: #ff00a7;}
-	100%  {fill: #00f9ff;}
-}
-
-@keyframes colorchange_two
-{
-	0%   {background-color: #00f9ff;}
-	25% {background-color: #15ff00;}
-	50%	{background-color: #f0ff00;}
-	75%	{background-color: #ff00a7;}
-	100%  {background-color: #00f9ff;}
-}
-
-@-webkit-keyframes colorchange_two
-{
-	/* Safari and Chrome - necessary duplicate */
-	0%   {background-color: #00f9ff;}
-	25% {background-color: #15ff00;}
-	50%	{background-color: #f0ff00;}
-	75%	{background-color: #ff00a7;}
-	100%  {background-color: #00f9ff;}
-}
-
 
 /**************
 * Navigation. *
@@ -160,23 +120,17 @@ a:hover
 .navigation a:hover
 {
 	color: var(--primaryColor);
-	background-color: var(--secondaryColor);
+	background-color: white;
 }
 
 .selected
 {
-	background-color: white;
-}
-
-a.selected
-{
-	color: var(--primaryColor);
-}
-
-a.selected:hover
-{
-	background: white;
-	color: var(--primaryColor);
+	animation: colorchange_two var(--animationTime); /* Animation-name followed by duration in seconds. You could also use milliseconds (ms) or something like 2.5s */
+	-webkit-animation: colorchange_two var(--animationTime); /* Chrome and Safari */
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
+	animation-delay: var(--animationStartShift);
+	-webkit-animation-delay: var(--animationStartShift);
 }
 
 /**********
@@ -198,10 +152,8 @@ a.selected:hover
 
 .footer a:hover
 {
-	color: white;
 	color: var(--primaryColor);
-	background-color: var(--secondaryColor);;
-	border-radius: 0.25em;
+	background-color: white;
 }
 
 .selected
@@ -211,16 +163,12 @@ a.selected:hover
     border-radius: 0.25em;
 }
 
-a.selected
+.selected a:hover
 {
-	color: var(--primaryColor);
+	color: white;
+	background: none;
 }
 
-a.selected:hover
-{
-	background-color: white;
-	color: var(--primaryColor);
-}
 
 /************
 * Headings. *
@@ -500,4 +448,42 @@ img.profile
 		border: 0em;
 		width: 95%;
 	}
+}
+
+@keyframes colorchange_one
+{
+	0%   {fill: var(--color1);}
+	25%  {fill: var(--color2);}
+	50%  {fill: var(--color3);}
+	75%  {fill: var(--color4);}
+	100%  {fill: var(--color1);}
+}
+
+@-webkit-keyframes colorchange_one 
+{
+	/* Safari and Chrome - necessary duplicate */
+	0%   {fill: var(--color1);}
+	25%  {fill: var(--color2);}
+	50%  {fill: var(--color3);}
+	75%  {fill: var(--color4);}
+	100%  {fill: var(--color1);}
+}
+
+@keyframes colorchange_two
+{
+	0%   {background-color: var(--color1);}
+	25% {background-color: var(--color2);}
+	50%	{background-color: var(--color3);}
+	75%	{background-color: var(--color4);}
+	100%  {background-color: var(--color1);}
+}
+
+@-webkit-keyframes colorchange_two
+{
+	/* Safari and Chrome - necessary duplicate */
+	0%   {background-color: var(--color1);}
+	25% {background-color: var(--color2);}
+	50%	{background-color: var(--color3);}
+	75%	{background-color: var(--color4);}
+	100%  {background-color: var(--color1);}
 }

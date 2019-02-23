@@ -31,21 +31,18 @@ body
 a
 {
 	color: var(--primaryColor);
+	background: transparent;
 	border-radius: 0.25em;
-	-webkit-transition: color 0.75s;
-	-webkit-transition: background-color 0.75s;
-	transition: color 0.75s;
-	transition: background-color: 0.75s linear;
+	-webkit-transition: color 0.3s linear, background-color 0.3s linear;
+	transition: color 0.3s linear, background-color 0.3s linear;
 }
 
 a:hover
 {
 	color: white;
 	background-color: var(--primaryColor);
-	-webkit-transition: color 0.75s;
-	-webkit-transition: background-color 0.75s;
-	transition: color 0.75s;
-	transition: background-color: 0.75s linear;
+	-webkit-transition: color 0.3s linear, background-color 0.3s linear;
+	transition: color 0.3s linear, background-color 0.3s linear;
 }
 
 

@@ -25,7 +25,14 @@ body
 	text-align: justify;
     margin: 0;
     padding: 0;
-	background-color: var(--primaryColor);
+    background: var(--primaryColor);
+/*	Gradient background.
+	background: linear-gradient(180deg, blue, yellow);
+	background-size: 2800% 2800%;
+	-webkit-animation: rainbow 18s ease infinite;
+	-z-animation: rainbow 18s ease infinite;
+	-o-animation: rainbow 18s ease infinite;
+	animation: rainbow 18s ease infinite;*/
 }
 
 a
@@ -53,7 +60,7 @@ a:hover
 {
 	position: relative;
 	text-align: center;
-	background-color: var(--primaryColor);
+	background-color: transparent;
 	padding-top: 2em;
 	padding-bottom: 2em;
 }
@@ -136,7 +143,7 @@ a:hover
 .footer 
 {
 	color: white;
-	background-color: var(--primaryColor);
+	background-color: transparent;
 	text-align: center;
 	padding-top: 2em;
 	padding-bottom: 2em;
@@ -196,7 +203,6 @@ h1
 	padding-right: 1em;
 	width: 38em;
 }
-
 
 /********************
 * Images and logos. *
@@ -483,4 +489,26 @@ img.profile
 	50%	{background-color: var(--color3);}
 	75%	{background-color: var(--color4);}
 	100%  {background-color: var(--color1);}
+}
+
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow { 
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
 }

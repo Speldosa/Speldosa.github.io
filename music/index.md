@@ -1,5 +1,6 @@
 ---
 title: Music
+nav: Music
 layout: default
 meta: Music created by Martin Asperholm.
 changefreq: monthly

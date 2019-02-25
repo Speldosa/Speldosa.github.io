@@ -1,5 +1,6 @@
 ---
 title: Movies
+nav: Movies
 layout: default
 meta: Movies made by Martin Asperholm.
 changefreq: monthly

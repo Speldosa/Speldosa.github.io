@@ -190,6 +190,7 @@ h1
 * Content. *
 ***********/
 .contentWrapperBackground {
+	color: black;
 	background-color: white;
     padding-top: 2em;
     padding-bottom: 2em;
@@ -201,7 +202,7 @@ h1
 	margin: 0 auto;
 	padding-left: 1em;
 	padding-right: 1em;
-	width: 38em;
+	width: 42em;
 }
 
 /********************
@@ -231,6 +232,7 @@ img.profile
 	margin: 0 auto;
 	min-width: 40%;
     max-width: 40%;
+    border-radius: 0.5em;
 }
 
 .icon
@@ -332,6 +334,46 @@ img.profile
 	height: 100%; 
 }
 
+
+/***********
+* Article. *
+***********/
+
+.article_start {
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	padding-top: 1.5em;
+	margin-bottom: 2em;
+}
+
+.article_back {
+}
+
+.article_title {
+	font-size: 2em;
+    font-weight: bold;
+}
+
+.article_status {
+	font-size: 0.75em;
+}
+
+.article_last_updated {
+	font-size: 0.75em;
+}
+
+.figure {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.figure_caption {
+	font-style: italic;
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
 
 /**************
 * Responsive. *

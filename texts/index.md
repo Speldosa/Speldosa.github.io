@@ -1,9 +1,12 @@
 ---
 title: Texts
+nav: Texts
 layout: default
 meta: Articles produced by Martin Asperholm.
 changefreq: monthly
 ---
+
+# Published works
 
 What follows is a list of different academic texts that I've written/co-written.
 

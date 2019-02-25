@@ -1,5 +1,6 @@
 ---
 title: About
+nav: About
 layout: default
 meta: Some info about Martin Asperholm.
 changefreq: monthly

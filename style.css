@@ -340,16 +340,20 @@ img.profile
 ***********/
 
 .article_start {
-	font-family: 'PT Sans', sans-serif;
 	text-align: center;
-	padding-top: 1.5em;
 	margin-bottom: 2em;
 }
 
-.article_back {
+.article_back_top {
+	margin-bottom: 2em;
+}
+
+.article_back_bottom {
+	margin-top: 2em;
 }
 
 .article_title {
+	font-family: 'PT Sans', sans-serif;
 	font-size: 2em;
     font-weight: bold;
 }

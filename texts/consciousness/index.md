@@ -6,11 +6,11 @@ meta: A text about consciousness by Martin Asperholm.
 changefreq: monthly
 ---
 
-<div class="article_back"><a href="/texts/">&#8676; Back to texts</a></div>
+<div class="article_back_top"><a href="/texts/">&#8676; Back to texts</a></div>
 
 <div class="article_start">
 	<div class="article_title">The Science of Consciousness</div>
-	<div class="article_status">Article version: 0.1 (not even a draft yet)</div>
+	<div class="article_status">Version: 0.1 (not even a draft yet)</div>
 	<div class="article_last_updated">Last updated: 2019-02-25</div>
 </div>
 
@@ -43,3 +43,5 @@ Here comes a test figure.
 </figure>
 
 Wow! That was fun!
+
+<div class="article_back_bottom"><a href="/texts/">&#8676; Back to texts</a></div>

@@ -14,15 +14,24 @@ changefreq: monthly
 	<div class="article_last_updated">Last updated: 2019-02-27</div>
 </div>
 
-- Space radar. 
-- Flux.
-- Taskpaper.
-- Github Desktop.
-- jamovi.
-- LilyPond.
-- SizeUp.
-- Sublime Text.
-- balenaEtcher
+# General
+## SizeUp
+## Flux
+## Space radar
+## balenaEtcher
+
+# Productivity
+## Taskpaper
+
+# Programming
+## Sublime Text
+## Github Desktop
+
+# Statistics
+## jamovi
+
+# Music
+## LilyPond
 
 <figure class="figure">
 	<img src="./images/test.svg">

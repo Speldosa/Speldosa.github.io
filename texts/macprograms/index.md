@@ -15,7 +15,9 @@ changefreq: monthly
 </div>
 
 # General
+<a href="www.google.com">
 ## SizeUp
+</a>
 ## Flux
 ## Space radar
 ## balenaEtcher
@@ -26,6 +28,9 @@ changefreq: monthly
 # Programming
 ## Sublime Text
 ## Github Desktop
+
+# Art
+## Affinity Photo and Affinity Designer
 
 # Statistics
 ## jamovi

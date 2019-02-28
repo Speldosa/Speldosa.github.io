@@ -15,9 +15,7 @@ changefreq: monthly
 </div>
 
 # General
-<a href="www.google.com">
-## SizeUp
-</a>
+<a href="http://www.irradiatedsoftware.com/sizeup/"><b>SizeUp</b></a> is one of those pieces of software that really should be bundled with every copy of MacOS.
 ## Flux
 ## Space radar
 ## balenaEtcher

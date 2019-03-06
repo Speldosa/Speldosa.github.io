@@ -380,6 +380,10 @@ img.profile
 	margin-right: 2em;
 }
 
+.figure_image {
+	width: 100%;
+}
+
 .figure_caption {
 	font-style: italic;
 	margin-top: 1em;

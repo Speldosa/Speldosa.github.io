@@ -70,4 +70,7 @@ Runner up: [Atom](https://github.com/atom/atom).
 
 Runner up: [MuseScore](https://musescore.org/en)
 
+## 6.2 Playing music
+[OTTO](https://github.com/topisani/OTTO/). I really hope this one will be good.
+
 <div class="article_back_bottom"><a href="/texts/">&#8676; Back to texts</a></div>

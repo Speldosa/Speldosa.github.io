@@ -13,7 +13,7 @@ changefreq: monthly
 # About me
 My name is Martin Asperholm. I'm a cognitive scientist interested in science, philosophy, design and the intersection between the three aforementioned fields. I also like to be creative.
 
-Currently, I'm a PhD student at [The Division of Psychology](http://ki.se/en/cns/the-division-of-psychology) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se).
+Currently, I work at the [The Division of Psychology](http://ki.se/en/cns/the-division-of-psychology) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se).
 
 # About this site
 This site is my repository on the internet. It's where I post and organize all the content that I've created and that I think is worth sharing.

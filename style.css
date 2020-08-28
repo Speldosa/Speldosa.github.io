@@ -217,7 +217,7 @@ h3
 **********/
 
 li:not(:last-child) {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.3em;
 		text-align: left;
 }
 

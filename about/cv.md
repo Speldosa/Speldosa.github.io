@@ -1,29 +1,31 @@
 ---
-title: About
+title: CV/resume
 nav: About
 layout: default
-meta: Some info about Martin Asperholm.
+meta: Martin Asperholm's CV/resume.
 changefreq: monthly
 ---
 
-<div class="imgTop">
-<img class="profile" src="/images/Martin.jpg" alt="Profile picture of Martin Asperholm.">
+<div class="article_back_top"><a href="/about/">&#8676; Go back</a></div>
+
+<div class="article_start">
+	<div class="article_title">CV/resume</div>
+	<div class="article_last_updated">Last updated: 2020-08-28</div>
 </div>
 
-# About me
-My name is Martin Asperholm. I have a PhD in psychology from Karolinska Institutet. I'm interested in science, philosophy, design and the intersection between the three aforementioned fields. I also like to be creative.
 
-Currently, I work at the [The Division of Psychology](http://ki.se/en/cns/the-division-of-psychology) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se).
+# Papers
 
-My CV can be found [here]().
+Go [here](./texts/) for a full list of my papers.
 
-# About this site
-This site is my repository on the internet. It's where I post and organize all the content that I've created and that I think is worth sharing.
+# Work/teaching
 
-This site is hosted at <img src="/images/GithubLogo.svg" class="icon"> [Github pages](https://pages.github.com/), which runs <img src="/images/JekyllIcon.svg" class="iconJekyll"> [Jekyll](http://jekyllrb.com/), the deus ex machina of the web. To hear more about it, listen to [this episode of The Web Ahead](http://5by5.tv/webahead/54). If you want to host your own site on Github, I can warmly recommend [Tomas Bradley YouTube tutorials](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-) on the matter.
+Your questions have become more redundant and annoying than the last three "Highlander" movies. I'll keep it short and sweet — Family. Religion. Friendship. These are the three demons you must slay if you wish to succeed in business.
 
-# Contact me
-You can contact me at:
-<ul class="bulletsWithoutBullets">
-	<li><img src="/images/Mail.svg" title="http://fortawesome.github.io/Font-Awesome/icon/envelope-o/" class="icon"> <a href="mailto:martin.asperholm@gmail.com">martin.asperholm@gmail.com</a></li>
-</ul>
+* Here's to alcohol, the cause of — and solution to — all life's problems.
+* Shoplifting is a victimless crime. Like punching someone in the dark.
+* Kids, you tried your best and you failed miserably. The lesson is, never try.
+
+Our differences are only skin deep, but our sames go down to the bone. Kids, you tried your best and you failed miserably. The lesson is, never try. Human contact: the final frontier. Dear Mr. President, There are too many states nowadays. Please, eliminate three. P.S. I am not a crackpot.
+
+<div class="article_back_bottom"><a href="/about/">&#8676; Go back</a></div>

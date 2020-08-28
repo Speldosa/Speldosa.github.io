@@ -16,7 +16,7 @@ changefreq: monthly
 
 # Papers
 
-Go [here](./texts/) for a full list of my papers.
+Go [here](/texts/) for a full list of my papers.
 
 # Work/teaching
 
@@ -27,5 +27,9 @@ Your questions have become more redundant and annoying than the last three "High
 * Kids, you tried your best and you failed miserably. The lesson is, never try.
 
 Our differences are only skin deep, but our sames go down to the bone. Kids, you tried your best and you failed miserably. The lesson is, never try. Human contact: the final frontier. Dear Mr. President, There are too many states nowadays. Please, eliminate three. P.S. I am not a crackpot.
+
+# Education
+
+Bla bla bla.
 
 <div class="article_back_bottom"><a href="/about/">&#8676; Go back</a></div>

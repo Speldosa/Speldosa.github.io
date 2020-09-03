@@ -42,6 +42,6 @@ You can find a full list of my published papers [here](/texts/).
 
 # Skills
 * Languages: Fluent in Swedish (native language); Fluent in English; Rudimentary knowledge of German.
-* Programming: Frequently user of HTML, CSS, JavaScript, PHP, R, Python, and LaTeX.
+* Programming: Frequent user of HTML, CSS, JavaScript, PHP, R, Python, and LaTeX.
 
 <div class="article_back_bottom"><a href="/about/">&#8676; Go back</a></div>

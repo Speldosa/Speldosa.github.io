@@ -1,6 +1,6 @@
 <url>
 
-	<loc>http://www.martinlarsson.net{{include.entry.url}}</loc>
+	<loc>http://www.asperholm.xyz{{include.entry.url}}</loc>
 
 	{% if include.entry.lastmod %}
 		<lastmod>{{include.entry.lastmod}}</lastmod>

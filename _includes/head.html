@@ -5,17 +5,16 @@
 	<link rel="stylesheet" href="/style.css" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="{{page.meta}}">
-		{% include googleAnalytics.html %}
 </head>
 
 <script>
-	document.onreadystatechange = function() 
+	document.onreadystatechange = function()
 	{
     	var html = document.getElementsByTagName('html')[0];
     	var tmp1 = "--animationStartShift: -";
 		var d = new Date();
 		var tmp2 = new Date().getTime() / 1000;
-    	var tmp3 = "s" 
+    	var tmp3 = "s"
     	// html.style.cssText = "--animationStartShift: -0s";
     	html.style.cssText = tmp1.concat(tmp2,tmp3)
   	}

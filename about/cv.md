@@ -10,7 +10,7 @@ changefreq: monthly
 
 <div class="article_start">
 	<div class="article_title">CV/resume</div>
-	<div class="article_last_updated">Last updated: 2020-08-29</div>
+	<div class="article_last_updated">Last updated: 2021-06-28</div>
 </div>
 
 
@@ -20,6 +20,7 @@ You can find a full list of my published papers [here](/texts/).
 
 # Work/teaching
 
+* Postdoctoral researcher at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Fall 2020-.
 * PhD student at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Summer 2015-Summer 2020.
 * Lecturer, seminar leader, and supervisor for certain parts of the course *Cognitive Processes* at the psychology program at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska institutet*, Spring 2015-Spring 2020.
 * Webmaster at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Fall 2014-Winter 2017.
@@ -42,6 +43,6 @@ You can find a full list of my published papers [here](/texts/).
 
 # Skills
 * Languages: Fluent in Swedish (native language); Fluent in English; Rudimentary knowledge of German.
-* Programming: Frequent user of HTML, CSS, JavaScript, PHP, R, Python, and LaTeX.
+* Programming: Knowledge in R, Python, LaTeX, HTML, CSS, JavaScript, PHP, and SQL.
 
 <div class="article_back_bottom"><a href="/about/">&#8676; Go back</a></div>

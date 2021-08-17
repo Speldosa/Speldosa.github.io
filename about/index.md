@@ -13,7 +13,7 @@ changefreq: monthly
 # About me
 My name is Martin Asperholm. I have a PhD in psychology from Karolinska Institutet. I'm interested in science, philosophy, design and the intersection between the three aforementioned fields. I also like to be creative.
 
-Currently, I work at the [The Division of Psychology](http://ki.se/en/cns/the-division-of-psychology) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se).
+Currently, I work as a postdoctoral researcher at the [The Division of Psychology](http://ki.se/en/cns/the-division-of-psychology) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se).
 
 My CV/resume can be found [here](cv.html).
 

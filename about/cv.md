@@ -10,7 +10,7 @@ changefreq: monthly
 
 <div class="article_start">
 	<div class="article_title">CV/resume</div>
-	<div class="article_last_updated">Last updated: 2021-08-23</div>
+	<div class="article_last_updated">Last updated: 2022-05-18</div>
 </div>
 
 

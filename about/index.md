@@ -11,16 +11,14 @@ changefreq: monthly
 </div>
 
 # About me
-My name is Martin Asperholm. I have a PhD in psychology from Karolinska Institutet. I'm interested in science, philosophy, design and the intersection between the three aforementioned fields. I also like to be creative.
-
-Currently, I work as a postdoctoral researcher at the [The Division of Psychology](http://ki.se/en/cns/the-division-of-psychology) at [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se).
+My name is Martin Asperholm. I have a PhD in psychology from [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm where I currently work as a postdoctoral researcher. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se).
 
 My CV/resume can be found [here](cv.html).
 
 # About this site
 This site is my repository on the internet. It's where I post and organize all the content that I've created and that I think is worth sharing.
 
-This site is hosted at <img src="/images/GithubLogo.svg" class="icon"> [Github pages](https://pages.github.com/), which runs <img src="/images/JekyllIcon.svg" class="iconJekyll"> [Jekyll](http://jekyllrb.com/), the deus ex machina of the web. To hear more about it, listen to [this episode of The Web Ahead](http://5by5.tv/webahead/54). If you want to host your own site on Github, I can warmly recommend [Tomas Bradley YouTube tutorials](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-) on the matter.
+This site is hosted at <img src="/images/GithubLogo.svg" class="icon"> [Github pages](https://pages.github.com/), which runs <img src="/images/JekyllIcon.svg" class="iconJekyll"> [Jekyll](http://jekyllrb.com/). To hear more about it, listen to [this episode of The Web Ahead](http://5by5.tv/webahead/54). If you want to host your own site on Github, I can warmly recommend [Tomas Bradley YouTube tutorials](https://www.youtube.com/playlist?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-) on the matter.
 
 # Contact me
 You can contact me at:

@@ -21,8 +21,8 @@ You can find a full list of my published papers [here](/texts/).
 # Work/teaching
 
 * Postdoctoral researcher at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Fall 2020-Current.
+* Lecturer, seminar leader, and supervisor for certain parts of the course *Cognitive Processes* at the psychology program at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska institutet*, Spring 2015-Current.
 * PhD student at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Summer 2015-Summer 2020.
-* Lecturer, seminar leader, and supervisor for certain parts of the course *Cognitive Processes* at the psychology program at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska institutet*, Spring 2015-Spring 2021.
 * Webmaster at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Fall 2014-Winter 2017.
 * Research assistant at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Fall 2013-Spring 2015.
 * Seminar leader for *PSYC1200* (*Introduction to General Psychology*) and *PSYC1100* (*Introduction to Methods*) at *Division of Psychology*, *University of Oslo*, Spring 2011-Spring 2012.
@@ -43,6 +43,6 @@ You can find a full list of my published papers [here](/texts/).
 
 # Skills
 * Languages: Fluent in Swedish (native language); Fluent in English; Rudimentary knowledge of German.
-* Programming: Knowledge in R, Python, LaTeX, HTML, CSS, JavaScript, PHP, and SQL.
+* Programming: Knowledge in R, Python, LaTeX, (LilyPond)[https://lilypond.org], HTML, CSS, JavaScript, PHP, and SQL.
 
 <div class="article_back_bottom"><a href="/about/">&#8676; Go back</a></div>

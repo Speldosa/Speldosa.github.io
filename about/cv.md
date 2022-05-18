@@ -20,7 +20,7 @@ You can find a full list of my published papers [here](/texts/).
 
 # Work/teaching
 
-* Postdoctoral researcher at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Fall 2020-.
+* Postdoctoral researcher at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Fall 2020-Current.
 * PhD student at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Summer 2015-Summer 2020.
 * Lecturer, seminar leader, and supervisor for certain parts of the course *Cognitive Processes* at the psychology program at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska institutet*, Spring 2015-Spring 2021.
 * Webmaster at *The Division of Psychology*, *Department of Clinical Neuroscience*, *Karolinska Institutet*, Fall 2014-Winter 2017.

@@ -32,7 +32,7 @@ You can find a full list of my published papers [here](/texts/).
 
 * PhD program in Psychology, 240 ECTS, [*Department of Clinical Neuroscience*](https://ki.se/en/cns/department-of-clinical-neuroscience), [*Karolinska Institutet*](https://ki.se/en), Summer 2015-Summer 2020.
 * Masters program in Psychology, Cognitive Neuroscience, 120 ECTS, [*Division of Psychology*](https://www.sv.uio.no/psi/english/), [*University of Oslo*](https://www.uio.no/english/), Fall 2009-Fall 2011.
-* Psychology, 90 ECTS, [*Department of Psychology*](https://www.su.se/department-of-psychology/)[*Stockholm University*](https://www.su.se/english/), Spring 2008-Fall 2009.
+* Psychology, 90 ECTS, [*Stockholm University*](https://www.su.se/english/), Spring 2008-Fall 2009.
 * Computer Science, 22.5 ECTS, [*Stockholm University*](https://www.su.se/english/), Spring 2008 and Spring 2009.
 * Mathematics, 22.5 ECTS, [*Stockholm University*](https://www.su.se/english/), Fall 2007.
 * Linguistics, 30 ECTS, [*Stockholm University*](https://www.su.se/english/), Fall 2007.

@@ -12,6 +12,7 @@ What follows is a selection of some different kind of musical pieces that I've c
 These are some choir arrangements that I've made for SATB choirs.
 
 * Martin Asperholm (2022). En kråka flög. ([PDF](./En kråka flög.pdf)) ([Piano](./En kråka flög.mp3)) ([MIDI](./En kråka flög.mid)) ([Musescore](./En kråka flög.mscz))
+* Martin Asperholm (2022). Ta mej till havet. ([PDF](./Ta mej till havet.pdf)) ([Piano](./Ta mej till havet.mp3)) ([MIDI](./Ta mej till havet.mid)) ([Musescore](./Ta mej till havet.mscz))
 * Martin Asperholm (2018). Higher Ground. ([PDF](./Higher Ground.pdf)) ([Piano](./Higher Ground.mp3)) ([MIDI](./Higher Ground.midi)) ([LilyPond](./Higher Ground.ly))
 * Martin Asperholm (2017). Den som inga byxor har. ([PDF](./Den som inga byxor har.pdf)) ([Piano](./Den som inga byxor har.mp3)) ([MIDI](./Den som inga byxor har.midi))
 * Martin Asperholm (2017). Ja, må du leva. ([PDF](./Ja, må du leva.pdf)) ([Piano](./Ja, må du leva.mp3)) ([MIDI](./Ja, må du leva.midi))

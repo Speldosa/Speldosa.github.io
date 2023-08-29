@@ -43,6 +43,6 @@ You can find a full list of my published papers [here](/texts/).
 
 # Skills
 * Languages: Fluent in [Swedish](https://en.wikipedia.org/wiki/Swedish_language) (native language); Fluent in [English](https://en.wikipedia.org/wiki/English_language); Rudimentary knowledge of [German](https://en.wikipedia.org/wiki/German_language).
-* Programming: Knowledge in [R](https://www.r-project.org), [Python](https://www.python.org), [LaTeX](https://www.latex-project.org), [LilyPond](https://lilypond.org), [HTML](https://html.spec.whatwg.org/multipage/), [CSS](https://www.w3.org/Style/CSS/), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [PHP](https://www.php.net), and [SQL](https://en.wikipedia.org/wiki/SQL).
+* Programming: Knowledge in [R](https://www.r-project.org), [Python](https://www.python.org), [LaTeX](https://www.latex-project.org), [LilyPond](https://lilypond.org), [HTML](https://html.spec.whatwg.org/multipage/), [CSS](https://www.w3.org/Style/CSS/), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Processing](https://www.processing.org), [PHP](https://www.php.net), and [SQL](https://en.wikipedia.org/wiki/SQL).
 
 <div class="article_back_bottom"><a href="/about/">&#8676; Go back</a></div>

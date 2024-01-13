@@ -11,6 +11,7 @@ What follows is a selection of some different kind of musical pieces that I've c
 # Choir arrangements
 These are some choir arrangements that I've made for SATB choirs.
 
+* Martin Larsson (2023). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([Audio](./Då väntar jag vid vägarna.mp3)) ([MIDI](./Då väntar jag vid vägarna.midi)) ([Musescore](./Då väntar jag vid vägarna.mscz))
 * Martin Asperholm (2023). Idas sommarvisa. ([PDF](./Idas sommarvisa.pdf)) ([Piano](./Idas sommarvisa.mp3)) ([MIDI](./Idas sommarvisa.mid)) ([Musescore](./Idas sommarvisa.mscz))
 * Martin Asperholm (2023). När små fåglar dör. ([PDF](./När små fåglar dör.pdf)) ([Piano](./När små fåglar dör.mp3)) ([MIDI](./När små fåglar dör.mid)) ([Musescore](./När små fåglar dör.mscz))
 * Martin Asperholm (2022). En kråka flög. ([PDF](./En kråka flög.pdf)) ([Piano](./En kråka flög.mp3)) ([MIDI](./En kråka flög.mid)) ([Musescore](./En kråka flög.mscz))
@@ -22,7 +23,6 @@ These are some choir arrangements that I've made for SATB choirs.
 * Martin Asperholm (2017). Vart du än går. ([PDF](./Vart du än går.pdf)) ([Piano](./Vart du än går.mp3)) ([MIDI](./Vart du än går.midi))
 * Martin Asperholm (2016). Du finns inom mig. ([PDF](./Du finns inom mig.pdf)) ([Piano](./Du finns inom mig.mp3)) ([MIDI](./Du finns inom mig.midi))
 * Martin Asperholm (2016). I don't want to miss a thing. ([PDF](./I don't want to miss a thing.pdf)) ([Piano](./I don't want to miss a thing.mp3)) ([MIDI](./I don't want to miss a thing.midi))
-* Martin Larsson (2015). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([Piano](./Då väntar jag vid vägarna.mp3)) ([MIDI](./Då väntar jag vid vägarna.midi))
 * Martin Larsson (2015). Hard Rock Hallelujah. ([PDF](./Hard Rock Hallelujah.pdf)) ([Piano](./Hard Rock Hallelujah.mp3)) ([MIDI](./Hard Rock Hallelujah.midi))
 * Martin Larsson (2014). Seasons of Love. ([PDF](./Seasons of Love.pdf)) ([Piano](./Seasons of Love.mp3)) ([MIDI](./Seasons of Love.midi))
 * Martin Larsson (2014). Show me Heaven. ([PDF](./Show me Heaven.pdf)) ([Piano](./Show me Heaven.mp3)) ([MIDI](./Show me Heaven.midi))

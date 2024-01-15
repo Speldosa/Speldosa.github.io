@@ -11,7 +11,7 @@ What follows is a selection of some different kind of musical pieces that I've c
 # Choir arrangements
 These are some choir arrangements that I've made for SATB choirs.
 
-* Martin Larsson (2023). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([Audio](./Då väntar jag vid vägarna.mp3)) ([MIDI](./Då väntar jag vid vägarna.midi)) ([Musescore](./Då väntar jag vid vägarna.mscz))
+* Martin Asperholm (2023). Då väntar jag vid vägarna. ([PDF](./Då väntar jag vid vägarna.pdf)) ([Audio](./Då väntar jag vid vägarna.mp3)) ([MIDI](./Då väntar jag vid vägarna.midi)) ([Musescore](./Då väntar jag vid vägarna.mscz))
 * Martin Asperholm (2023). Idas sommarvisa. ([PDF](./Idas sommarvisa.pdf)) ([Piano](./Idas sommarvisa.mp3)) ([MIDI](./Idas sommarvisa.mid)) ([Musescore](./Idas sommarvisa.mscz))
 * Martin Asperholm (2023). När små fåglar dör. ([PDF](./När små fåglar dör.pdf)) ([Piano](./När små fåglar dör.mp3)) ([MIDI](./När små fåglar dör.mid)) ([Musescore](./När små fåglar dör.mscz))
 * Martin Asperholm (2022). En kråka flög. ([PDF](./En kråka flög.pdf)) ([Piano](./En kråka flög.mp3)) ([MIDI](./En kråka flög.mid)) ([Musescore](./En kråka flög.mscz))

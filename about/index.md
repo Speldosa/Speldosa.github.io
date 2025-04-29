@@ -11,7 +11,7 @@ changefreq: monthly
 </div>
 
 # About me
-My name is Martin Asperholm. I have a PhD in psychology from [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm where I currently work as a postdoctoral researcher. I also sing in [Stockholm's University Choir](http://www.stockholmsuniversitetskor.se).
+My name is Martin Asperholm. I have a PhD in psychology from [Karolinska Institutet](http://ki.se/en/startpage) in Stockholm.
 
 My CV/resume can be found [here](cv.html).
 

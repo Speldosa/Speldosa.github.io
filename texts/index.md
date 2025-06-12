@@ -10,6 +10,7 @@ changefreq: monthly
 
 What follows is a list of different academic texts that I've written/co-written.
 
+* Martin Asperholm, Anna Strandqvist, Henrik Falhammar, Karolina Frankling, Ida Åkerlund, Petri Laukka, Angelica Lindén Hirschberg, Anna Nordenström, Agneta Herlitz (2025). Spatial ability, episodic memory, and emotion recognition in women with congenital adrenal hyperplasia or complete androgen insensitivity syndrome. *Hormones and Behavior*. ([Link](https://www.sciencedirect.com/science/article/pii/S0018506X2500073X))
 * Anna Strandqvist, Martin Asperholm, Henrik Falhammar, Angelica Lindén Hirschberg, Anna Nordenström, Agneta Herlitz (2025). Gendered interests and behavior in women with congenital adrenal hyperplasia or complete androgen insensitivity syndrome. *Hormones and Behavior*. ([Link](https://www.sciencedirect.com/science/article/pii/S0018506X25000741))
 * Lisa Espinosa, Erik C. Nook, Martin Asperholm, Therese Collins, Juliet Y. Davidow, Andreas Olsson (2024). Peer Threat Evaluations Shape One’s Own Threat Perceptions and Feelings of Distress. *Cognition and Emotion*. ([Link](https://www.tandfonline.com/doi/full/10.1080/02699931.2024.2417231)) ([PDF](https://www.tandfonline.com/doi/epdf/10.1080/02699931.2024.2417231?needAccess=true))
 * Agneta Herlitz, Ida Hönig, Kåre Hedebrant, Martin Asperholm (2024). A Systematic Review and New Analysis of the Gender-Equality Paradox. *Perspectives on Psychological Science*. ([Link](https://doi.org/10.1177/17456916231202685)) ([PDF](https://journals.sagepub.com/doi/epdf/10.1177/17456916231202685))
